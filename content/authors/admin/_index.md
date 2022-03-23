@@ -1,5 +1,5 @@
 ---
-email: ""
+email: "se.bioinfo.hh@gmail.com"
 highlight_name: true
 
 social:
