@@ -11,16 +11,25 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/seh2_bioinfo
+- #icon: graduation-cap
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SEH2Bioinfo-Org
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/seh2-bioinfo/
+- icon: facebook
+  icon_pack: fab
+  link: 
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/seh2_bioinfo/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCsoiBoToYJD8aqyXUnaKhrQ/featured
 superuser: true
 title:
 ---
