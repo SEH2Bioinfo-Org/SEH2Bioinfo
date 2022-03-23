@@ -12,9 +12,6 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/seh2_bioinfo
-- #icon: graduation-cap
-  #icon_pack: fas
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/SEH2Bioinfo-Org
