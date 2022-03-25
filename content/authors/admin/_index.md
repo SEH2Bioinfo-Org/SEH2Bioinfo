@@ -31,6 +31,13 @@ superuser: true
 title:
 ---
 
-Este Simposio pretende generar un espacio de encuentro cuyo principal idioma sea el español, reafirmando su diversidad etnolingüística y su capacidad comunicativa. El principal objetivo del evento es promover la inclusión, el acceso directo al conocimiento y la participación activa de estudiantes hispanos, tanto de secundaria como a nivel universitario, e investigadores hispanohablantes de todo el mundo, así como difundir la ciencia realizada en países de habla hispana al resto del mundo. Este espacio contribuirá a la creación de nuevas redes de contacto y colaboración académica, ampliará los horizontes de la transferencia de conocimiento y las bases del método científico a nuevos sectores sociales, así como el desarrollo de la investigación en Bioinformática y Biología Computacional.
+Actualmente nueve de los [RSGs (Grupos Regionales de Estudiantes)](https://iscbsc.org/rsg) activos se encuentran en países donde el idioma predominante es el Español (RSG Argentina, RSG Ecuador, RSG España, RSG Venezuela, RSG Colombia, RSG Chile, RSG Peru, RSG Costa Rica, RSG México). 
+
+Aquí les presentamos el primer simposio cooperativo de RSGs donde el idioma predominante será el español, donde se potenciará el plurilingüismo y la diversidad lingüística en ciencia y bioinformática, eliminando barreras de acceso a la comunicación científica y el acceso a la presentación de trabajos en un congreso científico de ámbito internacional.
+
+Este Simposio busca por lo tanto, generar un espacio de encuentro cuyo principal idioma sea el español, reafirmando su diversidad etnolingüística y su capacidad comunicativa, promoviendo la inclusión, el acceso directo al conocimiento y la participación activa de estudiantes de todos los niveles (tanto de secundaria como de nivel universitario) e investigadores hispanohablantes de todo el mundo.
+
+Este evento contribuirá a la creación de nuevas redes de contacto y colaboración académica, ampliará los horizontes de la transferencia de conocimiento y las bases del método científico a nuevos sectores sociales, así como el desarrollo de la investigación en Bioinformática y Biología Computacional.
+
 
 
