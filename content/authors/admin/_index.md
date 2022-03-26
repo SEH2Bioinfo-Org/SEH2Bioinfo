@@ -39,5 +39,11 @@ Este Simposio busca por lo tanto, generar un espacio de encuentro cuyo principal
 
 Este evento contribuirá a la creación de nuevas redes de contacto y colaboración académica, ampliará los horizontes de la transferencia de conocimiento y las bases del método científico a nuevos sectores sociales, así como el desarrollo de la investigación en Bioinformática y Biología Computacional.
 
-
+---
+### Inscripción y Envío de Resúmenes
+- [Formulario] (https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform)
+### Fechas importantes
+- Fecha del Simposio: 2 y 3 de Junio del 2022
+- Fecha límite de envío de resúmenes:<span style="color:green"> 11 de Abril</span>
+---
 
