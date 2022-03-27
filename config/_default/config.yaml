@@ -30,6 +30,7 @@ module:
 ## ADVANCED
 ############################
 
+custom_css: ['css/timeline.css', 'css/button.css']
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
