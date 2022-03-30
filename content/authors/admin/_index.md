@@ -40,15 +40,24 @@ Este Simposio busca por lo tanto, generar un espacio de encuentro cuyo principal
 Este evento contribuirá a la creación de nuevas redes de contacto y colaboración académica, ampliará los horizontes de la transferencia de conocimiento y las bases del método científico a nuevos sectores sociales, así como el desarrollo de la investigación en Bioinformática y Biología Computacional.
 
 ---
-## **Inscripción y Envío de Resúmenes**
+## **Inscripción y Envío de Resúmenes** :memo:
 Puedes inscribirte como asistente o presentar tu trabajo en el SEH2Bioinfo completando el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
 
 Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
 
+---
+## **¿Te gustaría sumarte a un Programa de Mentoreo en Bioinformática?**
+Mas información: [Link](https://docs.google.com/document/d/14lI3RAA4lu_DempE9cq4tTHkpET90kqCmF2cSyYa6h0/edit?usp=sharing)
 
-## **Fechas importantes**
-- Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022</span>
+---
+## **Fechas importantes** :pushpin:
+- Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 - Fecha límite de envío de resúmenes:<span style="color:#006948"> 11 de Abril</span>
 ---
+
+...PRONTO MÁS NOVEDADES...
+
+---
+
 
 <a class="twitter-timeline" data-width="800" data-height="400" href="https://twitter.com/seh2_bioinfo">Tweets by SEH2Bioinfo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
