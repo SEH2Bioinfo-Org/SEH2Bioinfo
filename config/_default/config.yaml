@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: SEH2Bioinfo # Website name
 baseurl: 'https://seh2bioinfo.netlify.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Developed by Sebastián Ayala Ruano' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
