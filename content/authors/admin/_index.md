@@ -18,9 +18,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/seh2-bioinfo/
-- icon: facebook
-  icon_pack: fab
-  link: 
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/seh2_bioinfo/

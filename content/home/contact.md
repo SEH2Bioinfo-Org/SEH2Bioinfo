@@ -4,7 +4,7 @@
 widget: contact
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -20,14 +20,9 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
   
 design:
   columns: '2'
 ---
+
+Si tienes cualquier duda sobre el SEH2Bioinfo, puedes escribirnos a se.bioinfo.hh@gmail.com
