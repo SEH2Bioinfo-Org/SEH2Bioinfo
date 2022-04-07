@@ -52,7 +52,7 @@ Mas información: [Link](https://docs.google.com/document/d/14lI3RAA4lu_DempE9cq
 - Fecha límite de envío de resúmenes:<span style="color:#006948"> 11 de Abril</span>
 ---
 
-...PRONTO MÁS NOVEDADES...
+...PRONTO MÁS NOVEDADES......
 
 ---
 
