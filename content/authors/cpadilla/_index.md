@@ -12,7 +12,7 @@ authors = ["cpadilla"]
 cpadilla = [""]
 
 # Role/position
-role = "RSG-Argentina"
+role = "RSG Argentina :argentina:"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
