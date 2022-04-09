@@ -13,7 +13,7 @@ Author name (this is required for people without content)
 zule = [""]
 
 Role/position
-role = "RSG España :es:"
+role = "RSG España"
 
 Organizations/Affiliations
 Separate multiple entries with a comma, using the form: [ {name="Org1", url=""}, {name="Org2", url=""} ].
