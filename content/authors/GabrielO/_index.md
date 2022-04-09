@@ -9,7 +9,7 @@ weight = 10
 authors = ["GabrielO"]
 
 # Author name (this is required for people without content)
-GuabrielO = [""]
+GabrielO = [""]
 
 # Role/position
 role = "RSG Chile :chile:, ET ISCB Student Council"

@@ -16,7 +16,7 @@ role = "RSG Argentina :argentina:"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{ name = "Structural Bioinformatics Group - UNQ-CONICET", url = "http://ufq.unq.edu.ar/sbg/"}]
+organizations = [{ name = "Structural Bioinformatics Group - Universidad Nacional de Quilmes-CONICET", url = "http://ufq.unq.edu.ar/sbg/"}]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "carlastembio@gmail.com"
