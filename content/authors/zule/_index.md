@@ -1,35 +1,35 @@
 +++
 
-Display name
+# Display name
 title = "Zulema Rodriguez-Hernandez"
 
-Author weight -- for sort purposes
+# Author weight -- for sort purposes
 weight = 10
 
-Username (this should match the folder name)
+# Username (this should match the folder name)
 authors = ["zule"]
 
-Author name (this is required for people without content)
+# Author name (this is required for people without content)
 zule = [""]
 
-Role/position
+# Role/position
 role = "RSG España"
 
-Organizations/Affiliations
-Separate multiple entries with a comma, using the form: [ {name="Org1", url=""}, {name="Org2", url=""} ].
+# Organizations/Affiliations
+# Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [{ name = "Centro Nacional de Epidemiologia, Instituto de Salud Carlos III, Madrid"}]
 
-Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "zulema.rodriguez@isciii.es"
 
-Organizational groups that you belong to (for People widget)
-Set this to [] or comment out if you are not using People widget.
+# Organizational groups that you belong to (for People widget)
+# Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Secretaría y gestion asistentes"]
 
-Social/Academic Networking
-For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# form "mailto:your-email@example.com" or "#contact" for contact widget.
 [[social]] icon = "envelope" icon_pack = "fas" link = "mailto:zulema.rodriguez@isciii.es"
 
 [[social]] icon = ""
