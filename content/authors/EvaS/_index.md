@@ -1,29 +1,29 @@
 +++
 # Display name
-title = "Sara Monzón Fernández"
+title = "Eva Suárez Pajés"
 
 # Author weight -- for sort purposes
 weight = 10
 
 # Username (this should match the folder name)
-authors = ["smonzon"]
+authors = ["EvaS"]
 
 # Author name (this is required for people without content)
-smonzon = [""]
+EvaS = [""]
 
 # Role/position
 role = "RSG España :es:" 
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{ name = "Unidad de Bioinformática, Instituto de Salud Carlos III (BU-ISCIII)"}]
+organizations = [{ name = "Unidad de Investigación, Hospital Universitario Nuestra Señora de Candelaria. Universidad de La Laguna"}]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "sara.monzon.fdz@gmail.com"
+email = "eva.suarez.30@ull.edu.es"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Coordinación general"]
+user_groups = ["Comité de programa y evaluación de resúmenes"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,21 +33,21 @@ user_groups = ["Coordinación general"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:sara.monzon.fdz@gmail.com"
+  link = "mailto:eva.suarez.30@ull.edu.es"
 
   [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/sara_mfdez"
+  link = "https://twitter.com/eva_suap"
 
-[[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/sara-monz%C3%B3n-fern%C3%A1ndez-6556b539/"
+# [[social]]
+  # icon = "linkedin"
+  # icon_pack = "fab"
+  # link = ""
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/saramonzon"
+# [[social]]
+  # icon = "github"
+  # icon_pack = "fab"
+  # link = ""
 
 +++
