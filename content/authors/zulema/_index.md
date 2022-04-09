@@ -6,10 +6,10 @@ title = "Zulema Rodriguez-Hernandez"
 weight = 10
 
 # Username (this should match the folder name)
-authors = ["zule"]
+authors = ["zulema"]
 
 # Author name (this is required for people without content)
-zule = [""]
+zulema = [""]
 
 # Role/position
 role = "RSG España :es:"
