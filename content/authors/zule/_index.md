@@ -16,7 +16,7 @@ zule = [""]
 role = "RSG España"
 
 # Organizations/Affiliations
-# Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+#  Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [{ name = "Centro Nacional de Epidemiologia, Instituto de Salud Carlos III, Madrid"}]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
