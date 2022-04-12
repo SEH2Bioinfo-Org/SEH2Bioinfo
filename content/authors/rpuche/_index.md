@@ -1,29 +1,29 @@
 +++
 # Display name
-title = "Eva Suárez Pajés"
+title = "Rafael Jose Puche Quiñonez"
 
 # Author weight -- for sort purposes
 weight = 10
 
 # Username (this should match the folder name)
-authors = ["EvaS"]
+authors = ["rpuche"]
 
 # Author name (this is required for people without content)
-EvaS = [""]
+rpuche = [""]
 
 # Role/position
-role = "RSG España :es:" 
+role = "RSG Venezuela	:venezuela:"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{ name = "Unidad de Investigación, Hospital Universitario Nuestra Señora de Candelaria. Universidad de La Laguna"}]
+organizations = [{ name = "Unidad de Estudios Genéticos y Forenses, Instituto Venezolano de Investigaciones Científicas (IVIC)", url = ""}]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "eva.suarez.30@ull.edu.es"
+email = "rpucheq@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Comité de programa y evaluación de resúmenes"]
+user_groups = ["Comité de web"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,21 +33,21 @@ user_groups = ["Comité de programa y evaluación de resúmenes"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:eva.suarez.30@ull.edu.es"
+  link = "mailto:rpucheq@gmail.com"
 
   [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/eva_suap"
+  link = "https://twitter.com/rpucheq"
 
-# [[social]]
-  # icon = "linkedin"
-  # icon_pack = "fab"
-  # link = ""
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/rafael-puche-61a6162b"
 
-# [[social]]
-  # icon = "github"
-  # icon_pack = "fab"
-  # link = ""
+[[social]]
+   icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/rpucheq"
 
 +++

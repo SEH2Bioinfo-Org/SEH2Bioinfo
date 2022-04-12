@@ -1,29 +1,29 @@
 +++
 # Display name
-title = "Sebastián Ayala Ruano"
+title = "Guillermo Orellana Becerra"
 
 # Author weight -- for sort purposes
 weight = 10
 
 # Username (this should match the folder name)
-authors = ["Sebastian"]
+authors = ["gorellana"]
 
 # Author name (this is required for people without content)
-Sebastian = [""]
+gorellana = [""]
 
 # Role/position
-role = "RSG Ecuador :ecuador:"
+role = "RSG Chile :chile:"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{ name = "Universidad San Francisco de Quito", url = ""}]
+organizations = [{ name = "Pontificia Universidad Católica de Chile", url = ""}]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "sebasar1245@gmail.com"
+email = "gaorellana@uc.cl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Comité de web"]
+user_groups = ["Comité de búsqueda de Financiación"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,21 +33,21 @@ user_groups = ["Comité de web"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:sebasar1245@gmail.com"
+  link = "mailto:gaorellana@uc.cl"
 
-  [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/sayalaruano"
+  # [[social]]
+  # icon = "twitter"
+  # icon_pack = "fab"
+  # link = ""
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://linkedin.com/in/sayalaruano"
+  link = "https://www.linkedin.com/in/guillermo-orellana-becerra-227173a5/"
 
-[[social]]
-   icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/sayalaruano"
+# [[social]]
+  # icon = "github"
+  # icon_pack = "fab"
+  # link = ""
 
 +++

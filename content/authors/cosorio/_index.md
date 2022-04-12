@@ -1,29 +1,29 @@
 +++
 # Display name
-title = "Mónica Cabrera-Pasadas"
+title = "Cleidy Mirela Osorio Mogollón"
 
 # Author weight -- for sort purposes
 weight = 10
 
 # Username (this should match the folder name)
-authors = ["Monica"]
+authors = ["cosorio"]
 
 # Author name (this is required for people without content)
-Monica = [""]
+cosorio = [""]
 
 # Role/position
-role = "RSG España :es:" 
+role = "RSG Perú :peru:" 
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{ name = "Barcelona Supercomputing Center"}]
+organizations = [{ name = "Universidad de Sao Paulo"}]
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "monica.cabrera.pasadas@gmail.com"
+email = "cleidy.osorio@usp.br"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Comité de difusión y Redes sociales"]
+user_groups = ["Comité de web"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,21 +33,21 @@ user_groups = ["Comité de difusión y Redes sociales"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:monica.cabrera.pasadas@gmail.com"
+  link = "mailto:cleidy.osorio@usp.br"
 
   [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/Monica_CabreraP"
+  link = "https://twitter.com/CleidyOsorio"
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/monicacabrerapasadas/"
+  link = "https://pe.linkedin.com/in/cleidy-osorio"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/MonicaCabreraP"
+  link = "https://github.com/CleyOsorio"
 
 +++
