@@ -17,11 +17,16 @@ title: 'Patrocinadores'
 ---
 <table style="border-collapse: collapse; border: none; background-color:white;">
   <tr style="border: none;">
-    <td style="border: none;"><a href="https://www.iscbsc.org/"><img src="sponsors/iscb-sc.jpg"></a></td>
-    <td style="border: none;"><a href="https://inb-elixir.es/"><img src="sponsors/INB.png"></a></td>
+    <td style="border: none;"><a><img src="sponsors/gold-medal.png"></a></td>
+    <td style="border: none;"><a href="https://www.iscbsc.org/"><img src="sponsors/iscb-sc.png" width="400" height="150"></a></td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none;"><a href="https://www.dreamgenics.com/"><img src="sponsors/dreamgenics.png"></a></td>
-    <td style="border: none;"><a href="https://twitter.com/a2b2c"><img src="sponsors/a2b2c.png"></a</td>
+    <td style="border: none;"><a><img src="sponsors/silver-medal.png"></a></td>
+    <td style="border: none;"><a href="https://inb-elixir.es/"><img src="sponsors/INB.png" width="300" height="100"></a></td>
+    <td style="border: none;"><a href="https://www.dreamgenics.com/"><img src="sponsors/dreamgenics.png" width="400" height="300"></a></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><a><img src="sponsors/bronze-medal.png"></a></td>
+    <td style="border: none;"><a href="https://twitter.com/a2b2c"><img src="sponsors/a2b2c.png" width="400" height="150"></a</td>
   </tr>
 </table>

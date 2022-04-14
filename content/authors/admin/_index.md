@@ -55,6 +55,3 @@ Mas información: [Link](https://docs.google.com/document/d/14lI3RAA4lu_DempE9cq
 ...PRONTO MÁS NOVEDADES...
 
 ---
-
-
-<a class="twitter-timeline" data-width="800" data-height="400" href="https://twitter.com/seh2_bioinfo">Tweets by SEH2Bioinfo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  

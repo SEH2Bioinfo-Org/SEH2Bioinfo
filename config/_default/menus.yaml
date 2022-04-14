@@ -13,6 +13,9 @@ main:
   - name: Patrocinadores
     url: '#sponsors'
     weight: 30
+  - name: Colaboradores
+    url: '#collaborators'
+    weight: 40
   - name: Contacto
     url: '#contact'
-    weight: 40
+    weight: 50
