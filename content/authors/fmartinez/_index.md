@@ -23,7 +23,7 @@ email = "martinez@ibr-conicet.gov.ar"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Comité de actividades de Networking"]
+user_groups = ["Comité de programa y evaluación de resúmenes"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
