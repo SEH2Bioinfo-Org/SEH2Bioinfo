@@ -44,12 +44,17 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 
 ---
 ## **¿Te gustaría sumarte a un Programa de Mentoreo en Bioinformática?**
-Mas información: [Link](https://docs.google.com/document/d/14lI3RAA4lu_DempE9cq4tTHkpET90kqCmF2cSyYa6h0/edit?usp=sharing)
 
+![Mentoreo](/content/authors/admin/mentoreo.jpg)
+Mas información: [Link](https://docs.google.com/document/d/14lI3RAA4lu_DempE9cq4tTHkpET90kqCmF2cSyYa6h0/edit?usp=sharing)
 ---
 ## **Fechas importantes** :pushpin:
+- Fecha límite de envío de resúmenes:<span style="color:red"> [CERRADO]</span>
+- Fecha de comunicación de evaluación de resúmenes: <span style="color:#012b7d"> 4 de Mayo </span> 
+- Fecha límite de envío de Pósters: <span style="color:#012b7d"> 18 de Mayo </span> 
+- Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
-- Fecha límite de envío de resúmenes:<span style="text-decoration:line-through"><span style="color:#006948"> 20 de Abril</span>
+
 ---
 
 ...PRONTO MÁS NOVEDADES...
