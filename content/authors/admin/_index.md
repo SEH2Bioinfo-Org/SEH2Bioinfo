@@ -49,7 +49,7 @@ Mas información: [Link](https://docs.google.com/document/d/14lI3RAA4lu_DempE9cq
 ---
 ## **Fechas importantes** :pushpin:
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
-- Fecha límite de envío de resúmenes:<span style="color:#006948"> 20 de Abril</span>
+- Fecha límite de envío de resúmenes:<span style="text-decoration:line-through"><span style="color:#006948"> 20 de Abril</span>
 ---
 
 ...PRONTO MÁS NOVEDADES...
