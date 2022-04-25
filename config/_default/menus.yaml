@@ -11,7 +11,7 @@ main:
     url: '#people'
     weight: 20
   - name: Programa
-    url: '#program'
+    url: 'programa'
     weight: 30
   - name: Patrocinadores
     url: '#sponsors'
