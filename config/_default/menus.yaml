@@ -10,12 +10,15 @@ main:
   - name: Equipo organizador
     url: '#people'
     weight: 20
+  - name: Programa
+    url: '#program'
+    weight: 30
   - name: Patrocinadores
     url: '#sponsors'
-    weight: 30
+    weight: 40
   - name: Colaboradores
     url: '#collaborators'
-    weight: 40
+    weight: 50
   - name: Contacto
     url: '#contact'
-    weight: 50
+    weight: 60
