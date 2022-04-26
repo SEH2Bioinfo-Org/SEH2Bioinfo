@@ -16,9 +16,6 @@ main:
   - name: Patrocinadores
     url: 'sponsors'
     weight: 40
-  - name: Colaboradores
-    url: '#collaborators'
-    weight: 50
   - name: Programa de Mentoreo
     url: 'mentoreo'
     weight: 50
