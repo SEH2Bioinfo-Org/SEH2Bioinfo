@@ -19,6 +19,9 @@ main:
   - name: Colaboradores
     url: '#collaborators'
     weight: 50
+  - name: Programa de Mentoreo
+    url: 'mentoreo'
+    weight: 50
   - name: Divulgación
     url: 'divulgacion'
     weight: 60
