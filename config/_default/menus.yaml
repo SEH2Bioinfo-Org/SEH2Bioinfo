@@ -19,6 +19,9 @@ main:
   - name: Colaboradores
     url: '#collaborators'
     weight: 50
+  - name: Divulgación
+    url: 'divulgación'
+    weight: 60
   - name: Contacto
     url: '#contact'
-    weight: 60
+    weight: 70
