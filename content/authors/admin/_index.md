@@ -51,13 +51,4 @@ Puedes inscribirte como asistente o presentar tu trabajo en el SEH2Bioinfo compl
 Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
 
 ---
-## **¿Te gustaría sumarte a un Programa de Mentoreo en Bioinformática?**
 
-![Mentoreo](/others/mentoreo.jpg)
-
-Mas información: [Link](https://docs.google.com/document/d/14lI3RAA4lu_DempE9cq4tTHkpET90kqCmF2cSyYa6h0/edit?usp=sharing)
-
----
-...PRONTO MÁS NOVEDADES...
-
----
