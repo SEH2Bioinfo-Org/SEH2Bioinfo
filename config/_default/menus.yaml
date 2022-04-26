@@ -14,7 +14,7 @@ main:
     url: 'programa'
     weight: 30
   - name: Patrocinadores
-    url: '#sponsors'
+    url: 'sponsors'
     weight: 40
   - name: Colaboradores
     url: '#collaborators'
