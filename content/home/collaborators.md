@@ -17,7 +17,7 @@ title: 'Colaboradores'
 ---
 <table style="border-collapse: collapse; border: none; background-color:white;">
   <tr style="border: none;">
-    <td style="border: none;"><a><img src="collaborators/collab.png" width="500" height="500"></a></td>
+    <td style="border: none;"><a><img src="collaborators/collab.png" width="1000" height="1000"></a></td>
 
   </tr>
 </table>
