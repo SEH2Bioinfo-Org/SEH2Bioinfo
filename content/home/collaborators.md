@@ -17,9 +17,7 @@ title: 'Colaboradores'
 ---
 <table style="border-collapse: collapse; border: none; background-color:white;">
   <tr style="border: none;">
-    <td style="border: none;"><a><img src="collaborators/BIB.jpg" width="200" height="200"></a></td>
-    <td style="border: none;"><a><img src="collaborators/BIOGRX.png" width="300" height="300"></a></td>
-    <td style="border: none;"><a><img src="collaborators/SPB.png" width="180" height="180"></a></td>
-    <td style="border: none;"><a><img src="collaborators/ZELL.png" width="200" height="200"></a></td>
+    <td style="border: none;"><a><img src="collaborators/collab.png" width="500" height="500"></a></td>
+
   </tr>
 </table>
