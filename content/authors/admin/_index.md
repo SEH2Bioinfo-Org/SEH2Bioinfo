@@ -52,5 +52,5 @@ Puedes inscribirte como asistente o presentar tu trabajo en el SEH2Bioinfo compl
 Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
 
 ---
-## **Instructivo para la confección de Posters** :memo:
+## **Instructivo para la confección de Pósters** :memo:
 [Instructivo](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
