@@ -13,15 +13,18 @@ main:
   - name: Programa
     url: 'programa'
     weight: 30
+  - name: Sesión de Pósters
+    url: 'posters'
+    weight: 40    
   - name: Patrocinadores y Colaboradores
     url: 'patrocinadores_y_colaboradores'
-    weight: 40
+    weight: 50
   - name: Programa de Mentoreo
     url: 'mentoreo'
-    weight: 50
+    weight: 60
   - name: Divulgación
     url: 'divulgacion'
-    weight: 60
+    weight: 70
   - name: Contacto
     url: '#contacto'
-    weight: 70
+    weight: 80
