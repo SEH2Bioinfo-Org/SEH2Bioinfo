@@ -5,16 +5,16 @@
 
 main:
   - name: Acerca del evento
-    url: '#about'
+    url: '#acerca'
     weight: 10
   - name: Equipo organizador
-    url: '#people'
+    url: '#equipo'
     weight: 20
   - name: Programa
     url: 'programa'
     weight: 30
-  - name: Patrocinadores
-    url: 'sponsors'
+  - name: Patrocinadores y Colaboradores
+    url: 'patrocinadores_y_colaboradores'
     weight: 40
   - name: Programa de Mentoreo
     url: 'mentoreo'
@@ -23,5 +23,5 @@ main:
     url: 'divulgacion'
     weight: 60
   - name: Contacto
-    url: '#contact'
+    url: '#contacto'
     weight: 70
