@@ -24,7 +24,7 @@ twitter: ''
 
 main_menu:
   enable: true
-  align: l
+  align: center
   show_logo: true
   show_language: true
   show_day_night: true
