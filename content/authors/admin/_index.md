@@ -38,8 +38,8 @@ Este evento contribuirá a la creación de nuevas redes de contacto y colaboraci
 
 ---
 ## **Fechas importantes** :pushpin:
-- Fecha límite de envío de resúmenes:<span style="color:red"> [CERRADO]</span>
-- Fecha de comunicación de evaluación de resúmenes: <span style="color:#012b7d"> 4 de Mayo </span> 
+- Fecha límite de envío de resúmenes:<span style="color:red"> [FINALIZADO]</span>
+- Fecha de comunicación de evaluación de resúmenes: <span style="color:red"> [FINALIZADO]</span>
 - Fecha límite de envío de Pósters: <span style="color:#012b7d"> 18 de Mayo </span> 
 - Fecha límite de envío del video para Comunicación Oral: <span style="color:#012b7d"> 24 de Mayo </span> 
 - Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
