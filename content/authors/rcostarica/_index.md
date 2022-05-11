@@ -1,6 +1,6 @@
 +++
 # Display name
-title = "RSG Argentina"
+title = "RSG Costa Rica"
 
 # Author weight -- for sort purposes
 weight = 10
