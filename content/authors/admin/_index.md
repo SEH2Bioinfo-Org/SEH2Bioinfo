@@ -41,7 +41,7 @@ Este evento contribuirá a la creación de nuevas redes de contacto y colaboraci
 - Fecha límite de envío de resúmenes:<span style="color:red"> [FINALIZADO]</span>
 - Fecha de comunicación de evaluación de resúmenes: <span style="color:red"> [FINALIZADO]</span>
 - Fecha límite de envío de Pósters: <span style="color:red"> [FINALIZADO] </span> 
-- Fecha límite de envío del video para Comunicación Oral: <span style="color:#012b7d"> 24 de Mayo </span> 
+- Fecha límite de envío del video para Comunicación Oral: <span style="color:red"> [FINALIZADO] </span> 
 - Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 
