@@ -19,3 +19,8 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+    
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "ALLOW"
