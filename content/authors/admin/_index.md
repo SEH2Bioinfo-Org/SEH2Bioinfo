@@ -48,12 +48,9 @@ Este evento contribuirá a la creación de nuevas redes de contacto y colaboraci
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
 Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
-
 Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
+[Instructivo para la confección de Pósters](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
 
 ---
-## **Instructivo para la confección de Pósters** :memo:
-[Instructivo](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
-
 ## **Libro de Resúmenes** :blue_book:
 Descarga el Libro de Resúmenes del Simposio SEH2Bioinfo en el siguiente [link](https://drive.google.com/file/d/17H1eRwuV6ruOUqeTJDyOPr-ix98acTTq/view?usp=sharing)
