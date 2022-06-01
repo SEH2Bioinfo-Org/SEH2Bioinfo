@@ -54,4 +54,5 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 
 ---
 ## **Libro de Resúmenes** :blue_book:
-Descarga el Libro de Resúmenes del Simposio SEH2Bioinfo en el siguiente [link](https://drive.google.com/file/d/17H1eRwuV6ruOUqeTJDyOPr-ix98acTTq/view?usp=sharing)
+Descarga el Libro de Resúmenes del Simposio SEH2Bioinfo en el siguiente [link](https://zenodo.org/record/6603621#.YpeU0qhBx3g)
+DOI: https://doi.org/10.5281/zenodo.6603621
