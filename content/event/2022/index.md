@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SEH2Bioinfo"
-event: "SEH2Bioinfo"
+title: "1SEH2Bioinfo"
+event: "1SEH2Bioinfo"
 event_url: ""
 location: Virtual event
 summary: ""
