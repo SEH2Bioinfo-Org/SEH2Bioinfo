@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "1SEH2Bioinfo"
-event: "1SEH2Bioinfo"
+title: "2SEH2Bioinfo"
+event: "2SEH2Bioinfo"
 event_url: ""
 location: Virtual event
 summary: ""
@@ -10,8 +10,8 @@ abstract: ""
 
 #  Talk start and end times.
 #  End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-06-05T09:00:00-19:00
-lastmod: 2022-06-05T09:00:00-19:00
+date: 2025-04-05T09:00:00-19:00
+lastmod: 2025-04-05T09:00:00-19:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -63,23 +63,18 @@ slides: ""
 ---
 
 ## **Fechas importantes** :pushpin:
-- Fecha límite de envío de resúmenes:<span style="color:red"> [FINALIZADO]</span>
-- Fecha de comunicación de evaluación de resúmenes: <span style="color:red"> [FINALIZADO]</span>
-- Fecha límite de envío de Pósters: <span style="color:red"> [FINALIZADO] </span> 
-- Fecha límite de envío del video para Comunicación Oral: <span style="color:red"> [FINALIZADO] </span> 
-- Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
-- Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
+- Fecha límite de envío de resúmenes:<span style="color:blue"> [¡Pronto!]</span>
+- Fecha de comunicación de evaluación de resúmenes: <span style="color:blue"> [¡Pronto!]</span>
+- Fecha límite de envío de Pósters: <span style="color:blue"> [¡Pronto!] </span> 
+- Fecha límite de envío del video para Comunicación Oral: <span style="color:blue"> [¡Pronto!] </span> 
+- Fecha límite de Inscripción: <span style="color:blue"> ¡Pronto! </span> 
+- Fecha del Simposio:<span style="color:green"> 2025 (VIRTUAL y GRATUITO)</span>
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
-Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
+Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](Link).
 Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
 
 - [Instructivo para la confección de Pósters](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
-
----
-## **Libro de Resúmenes** :blue_book:
-Descarga el Libro de Resúmenes del Simposio SEH2Bioinfo en el siguiente [link](https://zenodo.org/record/6603621#.YpeU0qhBx3g)
-DOI: https://doi.org/10.5281/zenodo.6603621
 
 ---
 ### Tópicos del Simposio
@@ -88,6 +83,7 @@ DOI: https://doi.org/10.5281/zenodo.6603621
 
 ---
 ## **Comité Organizador**
+¡Pronto!
 
 ---
 ### Certificados
