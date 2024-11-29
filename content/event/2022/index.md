@@ -10,8 +10,8 @@ abstract: ""
 
 #  Talk start and end times.
 #  End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-06-05T09:00:00-19:00
-lastmod: 2022-06-05T09:00:00-19:00
+date: 2022-06-02T09:00:00-19:00
+lastmod: 2022-06-02T09:00:00-19:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
