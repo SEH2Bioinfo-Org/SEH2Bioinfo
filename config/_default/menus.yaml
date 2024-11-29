@@ -10,7 +10,7 @@ main:
   - name: Eventos
     url: '#talks'
     weight: 20    
-  - name: Equipo organizador
+  - name: RSGs Hispanohablantes
     url: '#equipo'
     weight: 30
   - name: Programa
