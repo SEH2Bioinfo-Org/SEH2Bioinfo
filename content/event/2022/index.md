@@ -87,7 +87,7 @@ DOI: https://doi.org/10.5281/zenodo.6603621
 
 
 ---
-### Comite Organizador
+## **Comité Organizador**
 
 ---
 ### Certificados
