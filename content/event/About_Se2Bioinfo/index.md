@@ -68,9 +68,8 @@ Este Simposio busca generar un espacio de encuentro cuyo principal idioma sea el
 Este evento contribuirá a la creación de nuevas redes de contacto y colaboración académica, ampliará los horizontes de la transferencia de conocimiento y las bases del método científico a nuevos sectores sociales, así como el desarrollo de la investigación en Bioinformática y Biología Computacional.
 
 ---
-### SAJIB en el tiempo
 <div style="width: 100%;">
-<div style="position: relative; padding-bottom: 250%; padding-top: 0; height: 0;"><iframe title="SAJIB en el tiempo" frameborder="0" width="800" height="2000" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/674923939a69f1818ffb83e0/interactive-content-seh2bioinfo" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> 
+<div style="position: relative; padding-bottom: 250%; padding-top: 0; height: 0;"><iframe title="" frameborder="0" width="800" height="2000" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/674958b37be1ff3f2a135069/interactive-content-seh2bioinfo" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> 
 </div> 
 </div>
 
