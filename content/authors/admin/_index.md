@@ -5,7 +5,7 @@ highlight_name: true
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: /#simposio
 - display:
     header: true
   icon: twitter
