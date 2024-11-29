@@ -46,10 +46,22 @@ El Simposio tiene como objetivo crear un espacio de encuentro donde el español 
 
 Este evento contribuirá a la formación de nuevas redes de contacto y colaboración académica, ampliando las oportunidades de transferencia de conocimiento y fortaleciendo las bases del método científico en sectores sociales diversos. Además, impulsará el desarrollo de la investigación en Bioinformática y Biología Computacional a nivel global.
 
----
-<div style="width: 100%;">
-<div style="position: relative; padding-bottom: 250%; padding-top: 0; height: 0;"><iframe title="" frameborder="0" width="800" height="2000" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/674958b37be1ff3f2a135069/interactive-content-seh2bioinfo" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> 
-</div> 
+<div style="width: 100%; margin: 0; padding: 0; border: none;">
+  <div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0; margin: 0; border: none;">
+    <iframe
+      title="SEH2_Bioinfo"
+      frameborder="0"
+      width="800"
+      height="1600"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; margin: 0; padding: 0;"
+      src="https://view.genially.com/674958b37be1ff3f2a135069"
+      type="text/html"
+      allowscriptaccess="always"
+      allowfullscreen="true"
+      scrolling="yes"
+      allownetworking="all">
+    </iframe>
+  </div>
 </div>
 
 ---

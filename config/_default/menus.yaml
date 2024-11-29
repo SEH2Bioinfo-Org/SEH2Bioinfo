@@ -7,7 +7,7 @@ main:
   - name: Acerca de nosotros
     url: '#acerca'
     weight: 10
-  - name: Simposio
+  - name: SEH2Bioinfo
     url: '#talks'
     weight: 20    
   - name: Equipo organizador
