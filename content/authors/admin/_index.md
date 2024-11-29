@@ -27,32 +27,29 @@ social:
 superuser: true
 title:
 ---
+Actualmente, diez de los Grupos Regionales de Estudiantes (RSG) activos a nivel mundial, que forman parte del [Consejo de Estudiantes de la Sociedad Internacional de Biología Computacional](https://wp.iscbsc.org/), se encuentran en países de habla hispana. Estos RSGs son: RSG Argentina, RSG Ecuador, RSG España, RSG Venezuela, RSG Colombia, RSG Chile, RSG Perú, RSG Costa Rica, RSG México y RSG Uruguay.
 
-Actualmente nueve de los [RSGs (Grupos Regionales de Estudiantes)](https://iscbsc.org/rsg) activos se encuentran en países donde el idioma predominante es el Español (RSG Argentina, RSG Ecuador, RSG España, RSG Venezuela, RSG Colombia, RSG Chile, RSG Peru, RSG Costa Rica, RSG México). 
+Con la creación de la **Comunidad de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (CEH2Bioinfo)**, buscamos consolidar una red activa de estudiantes y jóvenes investigadores hispanohablantes en los campos de la bioinformática y la biología computacional. Los principales objetivos de CEH2Bioinfo son:
 
-Aquí les presentamos el primer simposio cooperativo de RSGs,  donde se potenciará el plurilingüismo y la diversidad lingüística en ciencia y bioinformática, eliminando barreras de acceso a la comunicación científica y el acceso a la presentación de trabajos en un congreso científico de ámbito internacional.
+1. **Fomentar la colaboración interdisciplinaria** entre estudiantes y profesionales de habla hispana, facilitando el intercambio de conocimiento y experiencias.
+2. **Promover la inclusión y el acceso equitativo** al conocimiento científico, eliminando barreras lingüísticas y ofreciendo oportunidades de participación en congresos y eventos internacionales.
+3. **Generar un espacio de apoyo y crecimiento profesional** para estudiantes de todos los niveles, desde la secundaria hasta la universidad, así como para jóvenes investigadores, a través de actividades formativas, colaboraciones y redes de contacto.
+4. **Impulsar la visibilidad de la comunidad hispanohablante** en el ámbito de la bioinformática y biología computacional, destacando la diversidad lingüística y cultural como un activo en la ciencia.
+5. **Facilitar el acceso a recursos y oportunidades de investigación** en bioinformática, promoviendo el desarrollo de proyectos conjuntos y el avance de la ciencia en la región hispanohablante.
 
-Este Simposio busca generar un espacio de encuentro cuyo principal idioma sea el español, reafirmando su diversidad etnolingüística y su capacidad comunicativa, promoviendo la inclusión, el acceso directo al conocimiento y la participación activa de estudiantes de todos los niveles (tanto de secundaria como de nivel universitario) e investigadores hispanohablantes de todo el mundo.
 
-Este evento contribuirá a la creación de nuevas redes de contacto y colaboración académica, ampliará los horizontes de la transferencia de conocimiento y las bases del método científico a nuevos sectores sociales, así como el desarrollo de la investigación en Bioinformática y Biología Computacional.
+## Sobre el Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo)
 
----
-## **Fechas importantes** :pushpin:
-- Fecha límite de envío de resúmenes:<span style="color:red"> [FINALIZADO]</span>
-- Fecha de comunicación de evaluación de resúmenes: <span style="color:red"> [FINALIZADO]</span>
-- Fecha límite de envío de Pósters: <span style="color:red"> [FINALIZADO] </span> 
-- Fecha límite de envío del video para Comunicación Oral: <span style="color:red"> [FINALIZADO] </span> 
-- Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
-- Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
+En 2022, se organizó el primer Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo), marcando un hito como el primer evento en bioinformática con una colaboración extensa entre los Grupos Regionales de Estudiantes (RSGs) de habla hispana. Participaron los RSGs de Argentina, España, Ecuador, Venezuela, Colombia, Chile, Perú, y con colaboraciones secundarias de RSG Costa Rica y RSG México. Este evento fue un esfuerzo conjunto para promover el plurilingüismo y la diversidad lingüística en el ámbito científico y en bioinformática, eliminando barreras para el acceso a la comunicación científica y la presentación de trabajos en congresos internacionales.
 
----
-## **Inscripción y Envío de Resúmenes** :memo:
-Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
-Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
+El Simposio tiene como objetivo crear un espacio de encuentro donde el español sea el idioma principal, celebrando su diversidad etnolingüística y su poder comunicativo. Se busca fomentar la inclusión, facilitar el acceso directo al conocimiento y promover la participación activa de estudiantes de todos los niveles, desde la secundaria hasta la universidad, así como de investigadores hispanohablantes de todo el mundo.
 
-- [Instructivo para la confección de Pósters](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
+Este evento contribuirá a la formación de nuevas redes de contacto y colaboración académica, ampliando las oportunidades de transferencia de conocimiento y fortaleciendo las bases del método científico en sectores sociales diversos. Además, impulsará el desarrollo de la investigación en Bioinformática y Biología Computacional a nivel global.
 
 ---
-## **Libro de Resúmenes** :blue_book:
-Descarga el Libro de Resúmenes del Simposio SEH2Bioinfo en el siguiente [link](https://zenodo.org/record/6603621#.YpeU0qhBx3g)
-DOI: https://doi.org/10.5281/zenodo.6603621
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 250%; padding-top: 0; height: 0;"><iframe title="" frameborder="0" width="800" height="2000" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/674958b37be1ff3f2a135069/interactive-content-seh2bioinfo" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> 
+</div> 
+</div>
+
+---
