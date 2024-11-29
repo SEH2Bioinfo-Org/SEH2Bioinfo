@@ -7,13 +7,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Equipo organizador"
+title = "RSGs Hispanohablantes"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Coordinación general", "Comité de búsqueda de Financiación", "Comité de programa y evaluación de resúmenes", "Secretaría y gestión de asistentes", "Comité de difusión y Redes sociales", "Comité de actividades de Networking", "Comité de diseño", "Comité de web", "RSGs Hispanohablantes"]
+  # user_groups = ["Coordinación general", "Comité de búsqueda de Financiación", "Comité de programa y evaluación de resúmenes", "Secretaría y gestión de asistentes", "Comité de difusión y Redes sociales", "Comité de actividades de Networking", "Comité de diseño", "Comité de web", "RSGs Hispanohablantes"]
 
 [design]
   # Show user's social networking links? (true/false)
