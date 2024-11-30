@@ -77,14 +77,54 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 - [Instructivo para la confección de Pósters](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
 
 ---
+## **Programa**
+
+<div style="max-width: 600px; margin: auto; text-align: center; font-family: Arial, sans-serif;">
+  <!-- Contenedor de vista previa -->
+  <div style="position: relative; width: 100%; height: 0; padding-top: 56.25%; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 1em;">
+    <iframe 
+      src="https://seh2bioinfo.netlify.app/programa/" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+      loading="lazy">
+    </iframe>
+  </div>
+  
+  <!-- Botón destacado -->
+<a href="https://seh2bioinfo.netlify.app/programa/" target="_blank" 
+   style="display: inline-block; padding: 12px 24px; background-color: #0078D7; color: #fff; text-decoration: none; font-size: 16px; font-weight: bold; border-radius: 4px; text-align: center; line-height: 1.5; transition: background-color 0.3s;">
+  Ver Programa Completo
+</a>
+
+</div>
+
+---
+
+### Sesión de Pósters
+<div style="max-width: 600px; margin: auto; text-align: center; font-family: Arial, sans-serif;">
+
+  <!-- Botón destacado -->
+<a href="https://seh2bioinfo.netlify.app/posters/" target="_blank" 
+   style="display: inline-block; padding: 12px 24px; background-color: red; color: #fff; text-decoration: none; font-size: 16px; font-weight: bold; border-radius: 4px; text-align: center; line-height: 1.5; transition: background-color 0.3s;">
+  Ver Sesión de Pósters
+</a>
+</div>
+
+---
+## **Patrocinadores y Colaboradores**
+<div style="max-width: 600px; margin: auto; text-align: center; font-family: Arial, sans-serif;">
+  <!-- Contenedor de vista previa -->
+  <div style="position: relative; width: 100%; height: 0; padding-top: 100%; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 1em;">
+    <iframe 
+      src="https://seh2bioinfo.netlify.app/patrocinadores_y_colaboradores/" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
+      loading="lazy">
+    </iframe>
+  </div>
+
+---
 ## **Libro de Resúmenes** :blue_book:
 Descarga el Libro de Resúmenes del Simposio SEH2Bioinfo en el siguiente [link](https://zenodo.org/record/6603621#.YpeU0qhBx3g)
 DOI: https://doi.org/10.5281/zenodo.6603621
-
----
-### Tópicos del Simposio
-
-
 
 ---
 
