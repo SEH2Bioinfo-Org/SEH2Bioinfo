@@ -7,24 +7,24 @@ main:
   - name: Acerca de nosotros
     url: '#acerca'
     weight: 10
-  - name: Eventos
-    url: '#talks'
-    weight: 20    
   - name: RSGs Hispanohablantes
     url: '#equipo'
-    weight: 30
-  - name: Programa
-    url: 'programa'
-    weight: 40
+    weight: 20
+  - name: Eventos
+    url: '#talks'
+    weight: 30    
+  - #name: Programa
+    #url: 'programa'
+    #weight: 40
   - name: Código de Conducta
     url: 'cc'
-    weight: 50
-  - name: Sesión de Pósters
-    url: 'posters'
-    weight: 60   
-  - name: Patrocinadores y Colaboradores
-    url: 'patrocinadores_y_colaboradores'
-    weight: 70
+    weight: 40
+  - #name: Sesión de Pósters
+    #url: 'posters'
+    #weight: 60   
+  - #name: Patrocinadores y Colaboradores
+    #url: 'patrocinadores_y_colaboradores'
+    #weight: 70
   - name: Programa de Mentoreo
     url: 'mentoreo'
     weight: 80
