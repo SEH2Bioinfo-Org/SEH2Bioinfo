@@ -15,7 +15,7 @@ date: 2025-04-01T09:00:00-19:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: 2024-05-02T13:48:21-03:00
+publishDate: 2024-05-02T13:48:21-03:00
 
 #authors: []
 tags: ["Symposium"]
