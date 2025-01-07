@@ -13,24 +13,24 @@ main:
   - name: RSGs Hispanohablantes
     url: '#equipo'
     weight: 30
-  - name: Programa
-    url: 'programa'
-    weight: 40
+  # name: Programa
+  #  url: 'programa'
+  #  weight: 40
   - name: Código de Conducta
     url: 'cc'
-    weight: 50
-  - name: Sesión de Pósters
-    url: 'posters'
-    weight: 60   
-  - name: Patrocinadores y Colaboradores
-    url: 'patrocinadores_y_colaboradores'
-    weight: 70
+    weight: 40
+  # name: Sesión de Pósters
+  #  url: 'posters'
+  #  weight: 60   
+  # name: Patrocinadores y Colaboradores
+  #  url: 'patrocinadores_y_colaboradores'
+  #  weight: 70
   - name: Programa de Mentoreo
     url: 'mentoreo'
-    weight: 80
+    weight: 50
   - name: Divulgación
     url: 'divulgacion'
-    weight: 90
+    weight: 60
   - name: Contacto
     url: '#contacto'
-    weight: 100
+    weight: 70
