@@ -1,6 +1,6 @@
 +++
 # Display name
-title = "RSG España"
+title = "RSG España 🇪🇸"
 
 # Author weight -- for sort purposes
 weight = 10
@@ -12,7 +12,7 @@ authors = ["respain"]
 respain = [""]
 
 # Role/position
-role = ":es:"
+role = ":green_circle: Activo"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -29,6 +29,11 @@ user_groups = ["RSGs Hispanohablantes"]
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+[[social]]
+icon = "globe"        
+icon_pack = "fas"      
+link = "https://www.rsg-spain.iscbsc.org/"
 
 [[social]]
   icon = "envelope"
