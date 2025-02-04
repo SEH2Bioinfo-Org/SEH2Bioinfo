@@ -98,7 +98,7 @@ slides: ""
 
 ---
 ### Certificados
-- Se entregaran certificados de participación
+- Se entregaran certificados de asistencia y participación
 
 ---
 ### Código de conducta
