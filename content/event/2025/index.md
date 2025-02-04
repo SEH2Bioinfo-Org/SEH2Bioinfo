@@ -79,14 +79,15 @@ slides: ""
 
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
     <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://www.canva.com/design/DAGeHMjFCow/E3iK5PsMvsZr84uhYQEcGQ/view?embed" allowfullscreen></iframe>
+      src="https://www.canva.com/design/DAGeHEolJug/4ZCI-di522TGTRWj1kcAug/view?embed" allowfullscreen></iframe>
   </div>
 
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
     <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://www.canva.com/design/DAGeHMjFCow/E3iK5PsMvsZr84uhYQEcGQ/view?embed" allowfullscreen></iframe>
+      src="https://www.canva.com/design/DAGeHEolJug/4ZCI-di522TGTRWj1kcAug/view?embed" allowfullscreen></iframe>
   </div>
 </div>
+
 
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
