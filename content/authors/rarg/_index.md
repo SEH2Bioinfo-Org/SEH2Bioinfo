@@ -1,6 +1,6 @@
 +++
 # Display name
-title = "RSG Argentina"
+title = "RSG Argentina :argentina:"
 
 # Author weight -- for sort purposes
 weight = 10
@@ -12,7 +12,7 @@ authors = ["rarg"]
 rarg = [""]
 
 # Role/position
-role = ":argentina: :green_circle: Activo"
+role = ":green_circle: Activo"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
