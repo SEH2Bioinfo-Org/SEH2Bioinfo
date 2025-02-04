@@ -68,21 +68,23 @@ slides: ""
 - Fecha límite de envío de Pósters: <span style="color:blue"> [¡Pronto!] </span> 
 - Fecha límite de envío del video para Comunicación Oral: <span style="color:blue"> [¡Pronto!] </span> 
 - Fecha límite de Inscripción: <span style="color:blue"> ¡Pronto! </span> 
-- Fecha del Simposio:<span style="color:green"> 2025 (VIRTUAL y GRATUITO)</span>
+- Fecha del Simposio:<span style="color:green"> 1 y 2 de Abril del 2025 (VIRTUAL y GRATUITO)</span>
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
-Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](Link).
-Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
-
-- [Instructivo para la confección de Pósters](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
+¡Pronto!
 
 ---
 ### Tópicos del Simposio
-
+¡Pronto!
 
 
 ---
 ## **Comité Organizador**
+
+¡Pronto!
+
+---
+## **Patrocinadores**
 ¡Pronto!
 
 ---
