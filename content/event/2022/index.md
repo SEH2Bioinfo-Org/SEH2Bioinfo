@@ -85,7 +85,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 
    <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 150px; height: 50px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Patrocinadores</a>
 
-   <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Resúmenes</a>
+   <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Libro de Resúmenes</a>
 </div>
 ---
 
