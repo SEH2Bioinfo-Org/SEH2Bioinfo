@@ -70,6 +70,25 @@ slides: ""
 - Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 ---
+## **Oradores Principales**
+<div style="display: flex; justify-content: space-between; gap: 1em;">
+  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
+      src="https://www.canva.com/design/DAGeMaSxtSw/3VAmKI1ZgM91cBRC7YI3Ww/view?embed" allowfullscreen></iframe>
+  </div>
+
+  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
+      src="https://www.canva.com/design/DAGeMQxb0Ks/90D1lYvUYn86JjLtbDt8mw/view?embed" allowfullscreen></iframe>
+  </div>
+
+  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
+      src="https://www.canva.com/design/DAGeMYdaHeA/eMffWepOUvoX_rrE4G_cdQ/view?embed" allowfullscreen></iframe>
+  </div>
+</div>
+
+---
 ## **Inscripción y Envío de Resúmenes** :memo:
 Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
 Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
