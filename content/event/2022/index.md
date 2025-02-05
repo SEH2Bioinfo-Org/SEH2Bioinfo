@@ -119,6 +119,33 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
     src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+---
+<div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
+  <div style="width: 80%; max-width: 800px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 12px; overflow: hidden;">
+    <iframe loading="lazy" style="width: 100%; height: 500px; border: none;" 
+      src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" 
+      allowfullscreen="allowfullscreen" allow="fullscreen">
+    </iframe>
+  </div>
+</div>
+---
+<div style="display: grid; place-items: center; padding: 20px;">
+  <div style="width: 90%; max-width: 900px; aspect-ratio: 16/9; border: 2px solid #ccc; border-radius: 15px; overflow: hidden;">
+    <iframe loading="lazy" style="width: 100%; height: 100%; border: none;" 
+      src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" 
+      allowfullscreen="allowfullscreen" allow="fullscreen">
+    </iframe>
+  </div>
+</div>
+---
+<div style="display: grid; place-items: center; padding: 20px;">
+  <div style="width: 90%; max-width: 900px; aspect-ratio: 16/9; border: 2px solid #ccc; border-radius: 15px; overflow: hidden;">
+    <iframe loading="lazy" style="width: 100%; height: 100%; border: none;" 
+      src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" 
+      allowfullscreen="allowfullscreen" allow="fullscreen">
+    </iframe>
+  </div>
+</div>
 
 ---
 
