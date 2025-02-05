@@ -97,7 +97,7 @@ slides: ""
 ---
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
-   <a href="https://seh2bioinfo.netlify.app/2025_programa" 
+   <a href="https://seh2bioinfo.netlify.app/_programa" 
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
@@ -105,7 +105,7 @@ slides: ""
       Programa
    </a>
 
-   <a href="https://seh2bioinfo.netlify.app/2025_posters" 
+   <a href="https://seh2bioinfo.netlify.app/_posters" 
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
@@ -113,7 +113,7 @@ slides: ""
       Pósters
    </a>
 
-   <a href="https://seh2bioinfo.netlify.app/2025_patrocinadores" 
+   <a href="https://seh2bioinfo.netlify.app/_patrocinadores" 
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
