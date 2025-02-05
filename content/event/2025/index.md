@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "2SEH2Bioinfo"
-event: "2SEH2Bioinfo"
+evento: "2SEH2Bioinfo"
 event_url: ""
-location: Virtual event
+lugar: Evento virtual y gratuito
 summary: ""
 abstract: ""
 
@@ -68,7 +68,7 @@ slides: ""
 - Fecha límite de envío de Pósters: <span style="color:blue"> [¡Pronto!] </span> 
 - Fecha límite de envío del video para Comunicación Oral: <span style="color:blue"> [¡Pronto!] </span> 
 - Fecha límite de Inscripción: <span style="color:blue"> ¡Pronto! </span> 
-- Fecha del Simposio:<span style="color:green"> 1 y 2 de Abril del 2025 (VIRTUAL y GRATUITO)</span>
+- Fecha del Simposio:<span style="color:green"> 1 y 2 de Abril del 2025</span>
 
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
