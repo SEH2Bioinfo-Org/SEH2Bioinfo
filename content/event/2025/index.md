@@ -69,7 +69,48 @@ slides: ""
 - Fecha límite de envío del video para Comunicación Oral: <span style="color:blue"> [¡Pronto!] </span> 
 - Fecha límite de Inscripción: <span style="color:blue"> ¡Pronto! </span> 
 - Fecha del Simposio:<span style="color:green"> 1 y 2 de Abril del 2025 (VIRTUAL y GRATUITO)</span>
+
 ---
+## **Inscripción y Envío de Resúmenes** :memo:
+¡Pronto!
+
+---
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
+   <a href="https://seh2bioinfo.netlify.app/2025_programa" 
+      style="width: 180px; height: 55px; background-color: #102d51; color: white; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Programa
+   </a>
+
+   <a href="https://seh2bioinfo.netlify.app/2025_posters" 
+      style="width: 180px; height: 55px; background-color: #102d51; color: white; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Pósters
+   </a>
+
+   <a href="https://seh2bioinfo.netlify.app/2025_patrocinadores" 
+      style="width: 180px; height: 55px; background-color: #102d51; color: white; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Patrocinadores
+   </a>
+
+   <a href="" 
+      style="width: 180px; height: 55px; background-color: #102d51; color: white; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Libro de Resúmenes
+   </a>
+</div>
+---
+
 ## **Oradores Principales**
 <div style="display: flex; justify-content: space-between; gap: 1em;">
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
@@ -88,22 +129,9 @@ slides: ""
   </div>
 </div>
 
-
----
-## **Inscripción y Envío de Resúmenes** :memo:
-¡Pronto!
-
----
-### **Tópicos del Simposio**
-¡Pronto!
-
 ---
 ## **Comité Organizador**
 
-¡Pronto!
-
----
-## **Patrocinadores**
 ¡Pronto!
 
 ---
