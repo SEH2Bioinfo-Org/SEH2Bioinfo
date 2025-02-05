@@ -70,10 +70,17 @@ slides: ""
 - Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 ---
-<a href="https://seh2bioinfo.netlify.app/2022_programa" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Programa</a>
-<a href="https://seh2bioinfo.netlify.app/2022_posters" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Sesión de Pósters</a>
-<a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="padding: 10px 20px; background-color: #FFC107; color: black; text-decoration: none; border-radius: 5px;">Patrocinadores y Colaboradores</a>
-<a href="https://zenodo.org/records/6603621" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Libro de Resúmenes</a>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; max-width: 400px; margin: auto;">
+   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="padding: 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 8px; text-align: center; display: block;">Programa</a>
+   
+   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="padding: 15px; background-color: #28A745; color: white; text-decoration: none; border-radius: 8px; text-align: center; display: block;">Sesión de Pósters</a>
+   
+   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="padding: 15px; background-color: #FFC107; color: black; text-decoration: none; border-radius: 8px; text-align: center; display: block;">Patrocinadores y Colaboradores</a>
+   
+   <a href="https://zenodo.org/records/6603621" style="padding: 15px; background-color: #6F42C1; color: white; text-decoration: none; border-radius: 8px; text-align: center; display: block;">Libro de Resúmenes</a>
+</div>
+
+---
 
 ## **Oradores Principales**
 <div style="display: flex; justify-content: space-between; gap: 1em;">
