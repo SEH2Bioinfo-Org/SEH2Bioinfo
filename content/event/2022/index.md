@@ -70,15 +70,16 @@ slides: ""
 - Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 ---
-<div style="display: flex; justify-content: center; gap: 15px;">
-   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 200px; height: 60px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Programa</a>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 150px; height: 50px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Programa</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 200px; height: 60px; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Sesión de Pósters</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 150px; height: 50px; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Pósters</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 200px; height: 60px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Patrocinadores</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 150px; height: 50px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Patrocinadores</a>
 
-   <a href="https://zenodo.org/records/6603621" style="width: 200px; height: 60px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Libro de Resúmenes</a>
+   <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Resúmenes</a>
 </div>
+
 
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
