@@ -125,6 +125,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
     src="https://www.canva.com/design/DAGeMcfXEAo/PV6kymKx8I6WLgZtDUC8iw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+
 ---
 ### Certificados
 - Se entregaran certificados de asistencia y participación
