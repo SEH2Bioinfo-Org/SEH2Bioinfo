@@ -112,35 +112,10 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 ---
 
 ## **Comité Organizador** :handshake:
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
----
+
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
   <div style="width: 80%; max-width: 800px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 12px; overflow: hidden;">
     <iframe loading="lazy" style="width: 100%; height: 500px; border: none;" 
-      src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" 
-      allowfullscreen="allowfullscreen" allow="fullscreen">
-    </iframe>
-  </div>
-</div>
----
-<div style="display: grid; place-items: center; padding: 20px;">
-  <div style="width: 90%; max-width: 900px; aspect-ratio: 16/9; border: 2px solid #ccc; border-radius: 15px; overflow: hidden;">
-    <iframe loading="lazy" style="width: 100%; height: 100%; border: none;" 
-      src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" 
-      allowfullscreen="allowfullscreen" allow="fullscreen">
-    </iframe>
-  </div>
-</div>
----
-<div style="display: grid; place-items: center; padding: 20px;">
-  <div style="width: 90%; max-width: 900px; aspect-ratio: 16/9; border: 2px solid #ccc; border-radius: 15px; overflow: hidden;">
-    <iframe loading="lazy" style="width: 100%; height: 100%; border: none;" 
       src="https://www.canva.com/design/DAGX7vUoYHg/FRKtNq1LR5Or3VloAk-23Q/view?embed" 
       allowfullscreen="allowfullscreen" allow="fullscreen">
     </iframe>
