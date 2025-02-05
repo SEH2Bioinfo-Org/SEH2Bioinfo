@@ -88,6 +88,10 @@ slides: ""
   </div>
 </div>
 
+<a href="https://seh2bioinfo.netlify.app/#acerca" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Programa</a>
+<a href="https://seh2bioinfo.netlify.app/#talks" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Sesión de Pósters</a>
+<a href="https://seh2bioinfo.netlify.app/#equipo" style="padding: 10px 20px; background-color: #FFC107; color: black; text-decoration: none; border-radius: 5px;">Patrocinadores y Colaboradores</a>
+
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
 Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
