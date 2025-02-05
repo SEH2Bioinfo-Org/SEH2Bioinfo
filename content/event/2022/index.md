@@ -78,6 +78,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 - [Instructivo para la confección de Pósters](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
 
 ---
+
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
    <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 150px; height: 50px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Programa</a>
 
@@ -87,6 +88,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 
    <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Libro de Resúmenes</a>
 </div>
+
 ---
 
 ## **Oradores Principales**
@@ -106,6 +108,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
       src="https://www.canva.com/design/DAGeMYdaHeA/eMffWepOUvoX_rrE4G_cdQ/view?embed" allowfullscreen></iframe>
   </div>
 </div>
+
 ---
 
 ## **Comité Organizador** :handshake:
@@ -118,6 +121,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 </div>
 
 ---
+
 ## **Fotos y Recuerdos** :camera:
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -128,14 +132,17 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 </div>
 
 ---
+
 ### Certificados
 - Se entregaran certificados de asistencia y participación
 
 ---
+
 ### Código de conducta
 Además del registro y la asistencia, la participación en este evento requiere la aceptación de los siguientes [Codigo de Conducta](https://seh2bioinfo.netlify.app/cc/)
 
 ---
+
 ## Redes sociales
 - [Twitter](https://x.com/seh2_bioinfo)
 - [Linkedin](https://www.linkedin.com/in/seh2-bioinfo/)
