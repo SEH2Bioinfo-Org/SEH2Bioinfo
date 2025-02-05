@@ -87,7 +87,6 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 
    <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Resúmenes</a>
 </div>
-
 ---
 
 ## **Oradores Principales**
