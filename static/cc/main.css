@@ -1,3 +1,21 @@
 .flash-author {
     font-weight: bold;
 } 
+.navbar-nav {
+    display: flex;
+    flex-wrap: nowrap; /* Evita que los ítems se bajen */
+    justify-content: space-between; /* Distribuye uniformemente */
+    width: 100%; /* Ocupa todo el ancho disponible */
+ }
+ 
+ .nav-item {
+    flex: 1; /* Hace que cada ítem ocupe el mismo espacio */
+    text-align: center; /* Centra el texto horizontalmente */
+ }
+ 
+ .nav-link {
+    padding: 10px 0; /* Ajusta el espaciado vertical */
+    white-space: nowrap; /* Impide saltos de línea */
+    width: 100%; /* Asegura que el enlace ocupe todo el espacio del ítem */
+ }
+ 
