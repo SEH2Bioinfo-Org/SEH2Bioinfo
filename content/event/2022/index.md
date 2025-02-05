@@ -71,14 +71,15 @@ slides: ""
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 ---
 <div style="display: flex; justify-content: center; gap: 15px;">
-   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 180px; padding: 15px 0; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Programa</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 200px; height: 60px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Programa</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 180px; padding: 15px 0; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Sesión de Pósters</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 200px; height: 60px; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Sesión de Pósters</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 180px; padding: 15px 0; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Patrocinadores y Colaboradores</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 200px; height: 60px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Patrocinadores</a>
 
-   <a href="https://zenodo.org/records/6603621" style="width: 180px; padding: 15px 0; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Libro de Resúmenes</a>
+   <a href="https://zenodo.org/records/6603621" style="width: 200px; height: 60px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap;">Libro de Resúmenes</a>
 </div>
+
 ---
 
 ## **Oradores Principales**
