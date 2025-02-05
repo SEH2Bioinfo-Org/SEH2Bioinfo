@@ -99,6 +99,7 @@ slides: ""
       src="https://www.canva.com/design/DAGeMYdaHeA/eMffWepOUvoX_rrE4G_cdQ/view?embed" allowfullscreen></iframe>
   </div>
 </div>
+
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
 Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
@@ -107,17 +108,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 - [Instructivo para la confección de Pósters](https://docs.google.com/document/d/1IYGf5_EzjAcIOL0G5W-tc75fZZSjvYCZSVoLmDNjE68/edit?usp=sharing)
 
 ---
-## **Libro de Resúmenes** :blue_book:
-Descarga el Libro de Resúmenes del Simposio SEH2Bioinfo en el siguiente [link](https://zenodo.org/record/6603621#.YpeU0qhBx3g)
-DOI: https://doi.org/10.5281/zenodo.6603621
-
----
-### Tópicos del Simposio
-
-
-
----
-
+## **Comité Organizador** :handshake:
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -127,8 +118,17 @@ DOI: https://doi.org/10.5281/zenodo.6603621
 </div>
 
 ---
+## **Fotos y Recuerdos** :camera:
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGeMcfXEAo/PV6kymKx8I6WLgZtDUC8iw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+---
 ### Certificados
-- Se entregaran certificados de participación
+- Se entregaran certificados de asistencia y participación
 
 ---
 ### Código de conducta
