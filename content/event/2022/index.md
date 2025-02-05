@@ -71,17 +71,16 @@ slides: ""
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 ---
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 150px; height: 50px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Programa</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 150px; height: 50px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px; font-weight: bold;">Programa</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 150px; height: 50px; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Pósters</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 150px; height: 50px; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px; font-weight: bold;">Pósters</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 150px; height: 50px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Patrocinadores</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 150px; height: 50px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px; font-weight: bold;">Patrocinadores</a>
 
-   <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Resúmenes</a>
+   <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px; font-weight: bold;">Resúmenes</a>
 </div>
-
-
 ---
+
 ## **Inscripción y Envío de Resúmenes** :memo:
 Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
 Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el siguiente [link](https://docs.google.com/document/d/1kNXZrcM3vsXtVBFDkqblnMZMOuQLBTSeE1UnVOaEDLY/edit?usp=sharing).
