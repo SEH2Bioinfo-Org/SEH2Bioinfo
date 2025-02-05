@@ -70,16 +70,15 @@ slides: ""
 - Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 ---
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="padding: 15px 20px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; text-align: center; display: inline-block;">Programa</a>
+<div style="display: flex; justify-content: center; gap: 15px;">
+   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 180px; padding: 15px 0; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Programa</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="padding: 15px 20px; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; text-align: center; display: inline-block;">Sesión de Pósters</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 180px; padding: 15px 0; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Sesión de Pósters</a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="padding: 15px 20px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; text-align: center; display: inline-block;">Patrocinadores y Colaboradores</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 180px; padding: 15px 0; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Patrocinadores y Colaboradores</a>
 
-   <a href="https://zenodo.org/records/6603621" style="padding: 15px 20px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; text-align: center; display: inline-block;">Libro de Resúmenes</a>
+   <a href="https://zenodo.org/records/6603621" style="width: 180px; padding: 15px 0; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; text-align: center;">Libro de Resúmenes</a>
 </div>
-
 ---
 
 ## **Oradores Principales**
