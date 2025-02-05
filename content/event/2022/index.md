@@ -79,14 +79,38 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-   <a href="https://seh2bioinfo.netlify.app/2022_programa" style="width: 150px; height: 50px; background-color: #AEC6CF; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Programa</a>
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
+   <a href="https://seh2bioinfo.netlify.app/2022_programa" 
+      style="width: 180px; height: 55px; background-color: #AEC6CF; color: black; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Programa
+   </a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_posters" style="width: 150px; height: 50px; background-color: #FFB7B2; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Pósters</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_posters" 
+      style="width: 180px; height: 55px; background-color: #FFB7B2; color: black; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Pósters
+   </a>
 
-   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="width: 150px; height: 50px; background-color: #FFD1DC; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Patrocinadores</a>
+   <a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" 
+      style="width: 180px; height: 55px; background-color: #FFD1DC; color: black; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Patrocinadores
+   </a>
 
-   <a href="https://zenodo.org/records/6603621" style="width: 150px; height: 50px; background-color: #B5EAD7; color: black; text-decoration: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; white-space: nowrap; font-size: 14px;">Libro de Resúmenes</a>
+   <a href="https://zenodo.org/records/6603621" 
+      style="width: 180px; height: 55px; background-color: #B5EAD7; color: black; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 16px;">
+      Libro de Resúmenes
+   </a>
 </div>
 
 ---
