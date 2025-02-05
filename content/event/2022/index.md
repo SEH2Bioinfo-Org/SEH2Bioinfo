@@ -70,6 +70,11 @@ slides: ""
 - Fecha límite de Inscripción: <span style="color:#012b7d"> 1 de Junio </span> 
 - Fecha del Simposio:<span style="color:#012b7d"> 2 y 3 de Junio del 2022 (VIRTUAL y GRATUITO)</span>
 ---
+<a href="https://seh2bioinfo.netlify.app/2022_programa" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Programa</a>
+<a href="https://seh2bioinfo.netlify.app/2022_posters" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Sesión de Pósters</a>
+<a href="https://seh2bioinfo.netlify.app/2022_patrocinadores" style="padding: 10px 20px; background-color: #FFC107; color: black; text-decoration: none; border-radius: 5px;">Patrocinadores y Colaboradores</a>
+<a href="https://zenodo.org/records/6603621" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Libro de Resúmenes</a>
+
 ## **Oradores Principales**
 <div style="display: flex; justify-content: space-between; gap: 1em;">
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
@@ -87,11 +92,6 @@ slides: ""
       src="https://www.canva.com/design/DAGeMYdaHeA/eMffWepOUvoX_rrE4G_cdQ/view?embed" allowfullscreen></iframe>
   </div>
 </div>
-
-<a href="https://seh2bioinfo.netlify.app/#acerca" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Programa</a>
-<a href="https://seh2bioinfo.netlify.app/#talks" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Sesión de Pósters</a>
-<a href="https://seh2bioinfo.netlify.app/#equipo" style="padding: 10px 20px; background-color: #FFC107; color: black; text-decoration: none; border-radius: 5px;">Patrocinadores y Colaboradores</a>
-
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
 Aún puedes inscribirte como asistente en el SEH2Bioinfo en el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScOUMTuOMkiTI8_pno1QlXiXRMbvRchjebu3Rizo843ICpZlg/viewform).
