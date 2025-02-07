@@ -140,40 +140,32 @@ slides: ""
     <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
       src="https://drive.google.com/file/d/1F7Ox9JkdvMZ9FWCgzirbZlMp2A0gRI-X/preview" allowfullscreen></iframe>
   </div>
-</div>
+    <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
+      src="https://drive.google.com/file/d/1IsTNqUPH6sI7FM688S-ieIvsEJATYZ7X/preview" allowfullscreen></iframe>
+  </div>
 
+  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
+      src="https://drive.google.com/file/d/1dWEkwk0yx44Y_gpye-0-rhC2-GDxJFjs/preview" allowfullscreen></iframe>
+  </div>
+
+  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
+      src="https://drive.google.com/file/d/1Sj3oJwADGCgq-WozrLEZyfL9-xYnyuKh/preview" allowfullscreen></iframe>
+  </div>
+</div>
+---
+
+## **Comité Asesor** 
 <div style="display: flex; justify-content: space-between; gap: 1em;">
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
     <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://drive.google.com/file/d/12pn1TDvFa3veKF3xfiYqH7hZMFjASLC7/preview" allowfullscreen></iframe>
-  </div>
-
-  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
-    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://drive.google.com/file/d/1jybCZnPB-p0t948wVvN2buIaDAB2eErX/preview" allowfullscreen></iframe>
-  </div>
-
-  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
-    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://drive.google.com/file/d/1F7Ox9JkdvMZ9FWCgzirbZlMp2A0gRI-X/preview" allowfullscreen></iframe>
-  </div>
-    <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
-    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://drive.google.com/file/d/1IsTNqUPH6sI7FM688S-ieIvsEJATYZ7X/view?usp=sharing" allowfullscreen></iframe>
-  </div>
-
-  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
-    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://drive.google.com/file/d/1dWEkwk0yx44Y_gpye-0-rhC2-GDxJFjs/view?usp=sharing" allowfullscreen></iframe>
-  </div>
-    <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
-    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://drive.google.com/file/d/1Sj3oJwADGCgq-WozrLEZyfL9-xYnyuKh/view?usp=sharing" allowfullscreen></iframe>
+      src="https://drive.google.com/file/d/1di3Q8gYwZlFdgqlBgdIqQzsrEZC1WfL8/preview" allowfullscreen></iframe>
   </div>
 </div>
-
-
 ---
+
 ## **Certificados** 📄
 - Se entregaran certificados de asistencia y participación
 
