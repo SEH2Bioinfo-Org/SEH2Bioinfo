@@ -72,7 +72,11 @@ slides: ""
 
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
-¡Pronto!
+- [Formulario de Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfxj3s2RnHRY_foCZGWsD9ECFYzb780cLEoobOhH1aWHnkajQ/viewform).
+- [Formulario de envío de resúmenes](https://docs.google.com/forms/d/e/1FAIpQLSehtgqnGahs05LxeO1rGyKBgWQcdIt6HV-YzTiLFknBvNPt-w/viewform).
+- [Plantilla modelo de resumen](https://docs.google.com/document/d/1UVdQ6OeUF5XUWMZBjNFAy88W4ven3XlDqBTF8OhY524/edit?usp=sharing).
+
+⚠️ ¡IMPORTANTE! Para que tu resumen sea considerado en el Simposio debes completar el Formulario de Inscripción al simposio y el Formulario de envío de resúmenes.
 
 ---
 
@@ -176,7 +180,7 @@ slides: ""
 
 ---
 ## **Código de conducta** ⚖️
-Además del registro y la asistencia, la participación en este evento requiere la aceptación de los siguientes [Codigo de Conducta](https://seh2bioinfo.netlify.app/cc/)
+Además del registro y la asistencia, la participación en este evento requiere la aceptación del siguiente [Codigo de Conducta](https://seh2bioinfo.netlify.app/cc/)
 
 ---
 ## Redes sociales

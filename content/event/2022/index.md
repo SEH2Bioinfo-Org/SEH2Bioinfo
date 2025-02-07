@@ -164,7 +164,7 @@ Puedes encontrar detalles sobre cómo presentar el resumen de tu trabajo en el s
 ---
 
 ### Código de conducta
-Además del registro y la asistencia, la participación en este evento requiere la aceptación de los siguientes [Codigo de Conducta](https://seh2bioinfo.netlify.app/cc/)
+Además del registro y la asistencia, la participación en este evento requiere la aceptación del siguiente [Codigo de Conducta](https://seh2bioinfo.netlify.app/cc/)
 
 ---
 
