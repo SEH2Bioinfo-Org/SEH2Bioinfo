@@ -123,16 +123,16 @@ slides: ""
 </div>
 
 ---
-## **Comité Organizador**
+## **Comité Organizador** :handshake:
 
 ¡Pronto!
 
 ---
-### Certificados
+### Certificados 📄
 - Se entregaran certificados de asistencia y participación
 
 ---
-### Código de conducta
+### Código de conducta ⚖️
 Además del registro y la asistencia, la participación en este evento requiere la aceptación de los siguientes [Codigo de Conducta](https://seh2bioinfo.netlify.app/cc/)
 
 ---
