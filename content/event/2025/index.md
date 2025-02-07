@@ -189,4 +189,4 @@ Además del registro y la asistencia, la participación en este evento requiere 
 - [Linkedin](https://www.linkedin.com/in/seh2-bioinfo/)
 - [Instagram](https://www.instagram.com/seh2_bioinfo/)
 - [Facebook](https://www.facebook.com/SEH2Bioinfo)
-- [Youtube channel](https://www.youtube.com/channel/UCsoiBoToYJD8aqyXUnaKhrQ/featured)
+- [Youtube](https://www.youtube.com/channel/UCsoiBoToYJD8aqyXUnaKhrQ/featured)
