@@ -123,6 +123,7 @@ slides: ""
 </div>
 
 ---
+
 ## **Comité Organizador** :handshake:
 
 <div style="display: flex; justify-content: space-between; gap: 1em;">
@@ -157,6 +158,7 @@ slides: ""
       src="https://drive.google.com/file/d/1Sj3oJwADGCgq-WozrLEZyfL9-xYnyuKh/preview" allowfullscreen></iframe>
   </div>
 </div>
+
 ---
 
 ## **Comité Asesor** 
@@ -166,7 +168,9 @@ slides: ""
       src="https://drive.google.com/file/d/1di3Q8gYwZlFdgqlBgdIqQzsrEZC1WfL8/preview" allowfullscreen></iframe>
   </div>
 </div>
+
 ---
+
 ## **Certificados** 📄
 - Se entregaran certificados de asistencia y participación
 
