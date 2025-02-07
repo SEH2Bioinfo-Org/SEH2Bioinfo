@@ -177,7 +177,9 @@ slides: ""
 ---
 
 ## **Certificados** 📄
-- Se entregaran certificados de asistencia y participación
+Se entregaran certificados de: 
+- Asistencia y participación (presentación de trabajo en formato charla o póster).
+- Mejores charlas y pósteres.
 
 ---
 ## **Código de conducta** ⚖️
