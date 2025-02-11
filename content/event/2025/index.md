@@ -94,12 +94,6 @@ slides: ""
          style="margin: 0 0 0 1.5em; border-radius: 8px; box-shadow: 0 2px 8px rgba(63,69,81,0.16);">
   </div>
 </div>
-
-  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
-    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-      src="https://www.canva.com/design/DAGeHEolJug/4ZCI-di522TGTRWj1kcAug/view?embed" allowfullscreen></iframe>
-  </div>
-
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
     <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
       src="https://www.canva.com/design/DAGeHBok3SQ/YqwstmjV0IrZYKCp0Pe32Q/view?embed" allowfullscreen></iframe>
@@ -144,6 +138,15 @@ slides: ""
       <img src="https://i.imgur.com/YOUR_IMAGE.jpg" alt="Descripción de la imagen" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(63,69,81,0.16);">
     </a>
   </div>
+
+  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+  <img src="./index_files/carlos.png" 
+       alt="Imagen de Carlos"
+       style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover; transition: transform 0.3s ease-in-out;"
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'">
+</div>
+
 
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
     <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
