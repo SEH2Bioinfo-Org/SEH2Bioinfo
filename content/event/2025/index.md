@@ -118,7 +118,7 @@ slides: ""
       Pósters
    </a>
 
-   <a href="https://seh2bioinfo.netlify.app/_patrocinadores" 
+   <a href="https://seh2bioinfo.netlify.app/2025_patrocinadores" 
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
