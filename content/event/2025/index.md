@@ -134,12 +134,14 @@ slides: ""
 
 <div style="display: flex; justify-content: space-between; gap: 1em;">
 
-  <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
-  <img src="./c1.png" 
-       alt="Imagen de Carlos"
-       style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover; transition: transform 0.3s ease-in-out;"
-       onmouseover="this.style.transform='scale(1.2)'" 
-       onmouseout="this.style.transform='scale(1)'">
+  <div style="position: relative; width: 32%; padding-top: 0%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
+  <a href="./c1.png" target="_blank">
+    <img src="./c1.png" 
+         alt="Imagen de Carlos"
+         style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover; transition: transform 0.3s ease-in-out;"
+         onmouseover="this.style.transform='scale(1.2)'" 
+         onmouseout="this.style.transform='scale(1)'">
+  </a>
   </div>
 
   <div style="position: relative; width: 32%; padding-top: 32%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px;">
