@@ -66,9 +66,6 @@ slides: ""
 - Apertura de inscripciones y envío de resúmenes:<span style="color:green"> 7 de Febrero</span>
 - Fecha límite de envío de resúmenes:<span style="color:green"> 21 de Febrero </span>
 - Fecha límite de Inscripción: <span style="color:green"> 25 de Marzo </span> 
-<!-- - Fecha de comunicación de evaluación de resúmenes: <span style="color:blue"> [¡Pronto!]</span>
-- Fecha límite de envío de Pósters: <span style="color:blue"> [¡Pronto!] </span> 
-- Fecha límite de envío del video para Comunicación Oral: <span style="color:blue"> [¡Pronto!] </span> -->
 - Fecha del Simposio:<span style="color:green"> 1 y 2 de Abril del 2025 (VIRTUAL y GRATUITO)</span>
 
 ---
