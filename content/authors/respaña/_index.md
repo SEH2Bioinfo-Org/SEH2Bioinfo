@@ -45,4 +45,25 @@ link = "https://www.rsg-spain.iscbsc.org/"
   icon_pack = "fab"
   link = "https://twitter.com/RSGSpain"
 
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/company/rsg-spain/?utm_campaign=linkinbio&utm_medium=referral&utm_source=later-linkinbio"
+
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg_spain?utm_campaign=linkinbio&utm_medium=referral&utm_source=later-linkinbio"
+
+[[social]]
+icon = "youtube"
+icon_pack = "fab"
+link = "https://www.youtube.com/channel/UCfB9CzdOBsrMuLcZru_eHGw?ybp=-gEJbGlua2luYmlv"
+
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/rsgspain?utm_campaign=linkinbio&utm_medium=referral&utm_source=later-linkinbio"
+
+
 +++
