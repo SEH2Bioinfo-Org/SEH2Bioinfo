@@ -63,8 +63,9 @@ slides: ""
 ---
 
 ## **Fechas importantes** :pushpin:
-- Apertura de inscripciones y envío de resúmenes:<span style="color:green"> 7 de Febrero</span>
-- Fecha límite de envío de resúmenes:<span style="color:green"> 21 de Febrero </span>
+- Apertura de inscripciones y envío de resúmenes:<span style="color:red; text-decoration: line-through;">7 de Febrero</span>
+- 1ra Fecha límite de envío de resúmenes: <span style="color:red; text-decoration: line-through;">21 de Febrero</span>
+- 2da y última fecha límite de envío de resúmenes: <span style="color:green"> 27 de Febrero </span> 
 - Fecha límite de Inscripción: <span style="color:green"> 25 de Marzo </span> 
 - Fecha del Simposio:<span style="color:green"> 1 y 2 de Abril del 2025 (VIRTUAL y GRATUITO)</span>
 
