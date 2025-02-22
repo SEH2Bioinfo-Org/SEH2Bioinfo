@@ -27,24 +27,34 @@ social:
 superuser: true
 title:
 ---
-Actualmente, diez de los Grupos Regionales de Estudiantes (RSG) activos a nivel mundial, que forman parte del [Consejo de Estudiantes de la Sociedad Internacional de Biología Computacional](https://wp.iscbsc.org/), se encuentran en países de habla hispana. Estos RSGs son: RSG Argentina, RSG Ecuador, RSG España, RSG Venezuela, RSG Colombia, RSG Chile, RSG Perú, RSG Costa Rica, RSG México y RSG Uruguay.
+<p align="justify">
+Actualmente, diez de los Grupos Regionales de Estudiantes (RSG) activos a nivel mundial, que forman parte del <a href="https://wp.iscbsc.org/">Consejo de Estudiantes de la Sociedad Internacional de Biología Computacional</a>, se encuentran en países de habla hispana. Estos RSGs son: RSG Argentina, RSG Ecuador, RSG España, RSG Venezuela, RSG Colombia, RSG Chile, RSG Perú, RSG Costa Rica, RSG México y RSG Uruguay.
+</p>
 
-Con la creación de la **Comunidad de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (CEH2Bioinfo)**, buscamos consolidar una red activa de estudiantes y jóvenes investigadores hispanohablantes en los campos de la bioinformática y la biología computacional. Los principales objetivos de CEH2Bioinfo son:
+<p align="justify">
+Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (CEH2Bioinfo)</strong>, buscamos consolidar una red activa de estudiantes y jóvenes investigadores hispanohablantes en los campos de la bioinformática y la biología computacional. Los principales objetivos de CEH2Bioinfo son:
+</p>
 
-1. **Fomentar la colaboración interdisciplinaria** entre estudiantes y profesionales de habla hispana, facilitando el intercambio de conocimiento y experiencias.
-2. **Promover la inclusión y el acceso equitativo** al conocimiento científico, eliminando barreras lingüísticas y ofreciendo oportunidades de participación en congresos y eventos internacionales.
-3. **Generar un espacio de apoyo y crecimiento profesional** para estudiantes de todos los niveles, desde la secundaria hasta la universidad, así como para jóvenes investigadores, a través de actividades formativas, colaboraciones y redes de contacto.
-4. **Impulsar la visibilidad de la comunidad hispanohablante** en el ámbito de la bioinformática y biología computacional, destacando la diversidad lingüística y cultural como un activo en la ciencia.
-5. **Facilitar el acceso a recursos y oportunidades de investigación** en bioinformática, promoviendo el desarrollo de proyectos conjuntos y el avance de la ciencia en la región hispanohablante.
-
+1. <strong>Fomentar la colaboración interdisciplinaria</strong> entre estudiantes y profesionales de habla hispana, facilitando el intercambio de conocimiento y experiencias.  
+2. <strong>Promover la inclusión y el acceso equitativo</strong> al conocimiento científico, eliminando barreras lingüísticas y ofreciendo oportunidades de participación en congresos y eventos internacionales.  
+3. <strong>Generar un espacio de apoyo y crecimiento profesional</strong> para estudiantes de todos los niveles, desde la secundaria hasta la universidad, así como para jóvenes investigadores, a través de actividades formativas, colaboraciones y redes de contacto.  
+4. <strong>Impulsar la visibilidad de la comunidad hispanohablante</strong> en el ámbito de la bioinformática y biología computacional, destacando la diversidad lingüística y cultural como un activo en la ciencia.  
+5. <strong>Facilitar el acceso a recursos y oportunidades de investigación</strong> en bioinformática, promoviendo el desarrollo de proyectos conjuntos y el avance de la ciencia en la región hispanohablante.  
 
 ## Sobre el Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo)
 
+<p align="justify">
 En 2022, se organizó el primer Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo), marcando un hito como el primer evento en bioinformática con una colaboración extensa entre los Grupos Regionales de Estudiantes (RSGs) de habla hispana. Participaron los RSGs de Argentina, España, Venezuela, Colombia, Chile, Perú, México y Uruguay. Este evento fue un esfuerzo conjunto para promover el plurilingüismo y la diversidad lingüística en el ámbito científico y en bioinformática, eliminando barreras para el acceso a la comunicación científica y la presentación de trabajos en congresos internacionales.
+</p>
 
+<p align="justify">
 El Simposio tiene como objetivo crear un espacio de encuentro donde el español sea el idioma principal, celebrando su diversidad etnolingüística y su poder comunicativo. Se busca fomentar la inclusión, facilitar el acceso directo al conocimiento y promover la participación activa de estudiantes de todos los niveles, desde la secundaria hasta la universidad, así como de investigadores hispanohablantes de todo el mundo.
+</p>
 
+<p align="justify">
 Este evento contribuirá a la formación de nuevas redes de contacto y colaboración académica, ampliando las oportunidades de transferencia de conocimiento y fortaleciendo las bases del método científico en sectores sociales diversos. Además, impulsará el desarrollo de la investigación en Bioinformática y Biología Computacional a nivel global.
+</p>
+
 
 <div style="width: 100%; margin: 0; padding: 0; border: none;">
   <div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0; margin: 0; border: none;">
