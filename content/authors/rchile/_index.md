@@ -45,4 +45,15 @@ link = "https://rsg-chile.iscbsc.org/"
   icon_pack = "fab"
   link = "https://twitter.com/iscbrsgchile"
 
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg.chile/"
+
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/groups/ISCB.RSG.Chile/"
+
+
 +++

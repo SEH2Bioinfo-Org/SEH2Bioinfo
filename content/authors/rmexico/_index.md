@@ -45,4 +45,14 @@ link = "https://rsg-mexico.iscbsc.org/"
   icon_pack = "fab"
   link = "https://twitter.com/iscb_rsgmx"
 
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg_mexico/"
+
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/profile.php?id=61553572910660&mibextid=ZbWKwL"
+
 +++

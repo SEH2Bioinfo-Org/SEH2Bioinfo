@@ -45,4 +45,19 @@ link = "https://rsg-ecuador.iscbsc.org/"
   icon_pack = "fab"
   link = "https://twitter.com/rsgecdr"
 
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsgecdr"
+
+[[social]]
+icon = "youtube"
+icon_pack = "fab"
+link = "https://www.youtube.com/channel/UCb-lG2YeFN_UzbLsz19793w"
+
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/rsgecdr"
+
 +++

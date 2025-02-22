@@ -45,5 +45,8 @@ link = "https://rsg-costarica.iscbsc.org/"
   icon_pack = "fab"
   link = "https://twitter.com/RSG_CostaRica"
 
-
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/RSGCostaRica/"
 +++

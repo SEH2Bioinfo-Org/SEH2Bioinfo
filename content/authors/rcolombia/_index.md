@@ -45,4 +45,14 @@ link = "https://rsgcolombia.github.io/"
   icon_pack = "fab"
   link = "https://twitter.com/rsgcolombia"
 
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg_colombia/"
+
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/RSGCol/"
+
 +++

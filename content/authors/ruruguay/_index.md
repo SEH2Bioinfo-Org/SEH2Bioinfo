@@ -45,4 +45,9 @@ link = "https://rsg-uruguay.iscbsc.org/"
   icon_pack = "fab"
   link = "https://x.com/RSG_Uruguay"
 
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg.uy/?hl=es"
+
 +++

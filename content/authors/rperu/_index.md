@@ -45,4 +45,14 @@ link = "https://rsg-peru.iscbsc.org/"
   icon_pack = "fab"
   link = "https://twitter.com/ISCB_RSGPeru"
 
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg.peru?igshid=OGQ5ZDc2ODk2ZA%3D%3D"
+
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/rsg.peru"
+
 +++

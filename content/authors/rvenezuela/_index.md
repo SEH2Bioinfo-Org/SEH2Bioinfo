@@ -45,4 +45,9 @@ link = "https://www.rsg-venezuela.iscbsc.org/"
   icon_pack = "fab"
   link = "https://twitter.com/RSG_Venezuela"
 
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg.ve/?hl=es"
+
 +++
