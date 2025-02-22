@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "About"
-event: "Acerca del Simposio"
+title: "Acerca del SEH2Bioinfo"
+event: "Acerca del SEH2Bioinfo"
 event_url: ""
 location: Virtual event
 summary: ""
