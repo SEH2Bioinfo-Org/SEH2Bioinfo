@@ -36,14 +36,33 @@ icon_pack = "fas"
 link = "https://rsg-argentina.netlify.app/"
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:rsg.argentina@gmail.com"
+icon = "envelope"
+icon_pack = "fas"
+link = "mailto:rsg.argentina@gmail.com"
 
-  [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/RSGArgentina"
+[[social]]
+icon = "twitter"
+icon_pack = "fab"
+link = "https://twitter.com/RSGArgentina"
 
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/in/iscb-sc-rsg-argentina-053599214/"
+
+[[social]]
+icon = "instagram"
+icon_pack = "fab"
+link = "https://www.instagram.com/rsg_arg"
+
+[[social]]
+icon = "youtube"
+icon_pack = "fab"
+link = "https://www.youtube.com/channel/UCVQA_t8dR5xownEu5NI9S0w?view_as=subscriber"
+
+[[social]]
+icon = "facebook"
+icon_pack = "fab"
+link = "https://www.facebook.com/RSGArgentina/"
 
 +++
