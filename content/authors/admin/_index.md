@@ -41,37 +41,63 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
 4. <strong>Impulsar la visibilidad de la comunidad hispanohablante</strong> en el ámbito de la bioinformática y biología computacional, destacando la diversidad lingüística y cultural como un activo en la ciencia.  
 5. <strong>Facilitar el acceso a recursos y oportunidades de investigación</strong> en bioinformática, promoviendo el desarrollo de proyectos conjuntos y el avance de la ciencia en la región hispanohablante.  
 
-## Sobre el Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo)
+<p>&nbsp;</p>
 
-<p align="justify">
-En 2022, se organizó el primer Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo), marcando un hito como el primer evento en bioinformática con una colaboración extensa entre los Grupos Regionales de Estudiantes (RSGs) de habla hispana. Participaron los RSGs de Argentina, España, Venezuela, Colombia, Chile, Perú, México y Uruguay. Este evento fue un esfuerzo conjunto para promover el plurilingüismo y la diversidad lingüística en el ámbito científico y en bioinformática, eliminando barreras para el acceso a la comunicación científica y la presentación de trabajos en congresos internacionales.
-</p>
+<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; padding: 20px;">
+   <div style="text-align: center; position: relative;">
+      <a href="https://seh2bioinfo.netlify.app/talk/about/" 
+         style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
+                display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+                transition: transform 0.3s ease, box-shadow 0.3s ease;">
+         <img src="./fondo.png" 
+              style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
+                     border-radius: 50%; object-fit: cover;">
+      </a>
+      <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                  font-size: 18px; color: #102d51; text-align: center; font-weight: bold;">
+         Sobre SEH2Bioinfo
+      </span>
+   </div>
 
-<p align="justify">
-El Simposio tiene como objetivo crear un espacio de encuentro donde el español sea el idioma principal, celebrando su diversidad etnolingüística y su poder comunicativo. Se busca fomentar la inclusión, facilitar el acceso directo al conocimiento y promover la participación activa de estudiantes de todos los niveles, desde la secundaria hasta la universidad, así como de investigadores hispanohablantes de todo el mundo.
-</p>
-
-<p align="justify">
-Este evento contribuirá a la formación de nuevas redes de contacto y colaboración académica, ampliando las oportunidades de transferencia de conocimiento y fortaleciendo las bases del método científico en sectores sociales diversos. Además, impulsará el desarrollo de la investigación en Bioinformática y Biología Computacional a nivel global.
-</p>
-
-
-<div style="width: 100%; margin: 0; padding: 0; border: none;">
-  <div style="position: relative; padding-bottom: 200%; padding-top: 0; height: 0; margin: 0; border: none;">
-    <iframe
-      title="SEH2_Bioinfo"
-      frameborder="0"
-      width="800"
-      height="1600"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; margin: 0; padding: 0;"
-      src="https://view.genially.com/674958b37be1ff3f2a135069"
-      type="text/html"
-      allowscriptaccess="always"
-      allowfullscreen="true"
-      scrolling="yes"
-      allownetworking="all">
-    </iframe>
-  </div>
+   <div style="text-align: center; position: relative;">
+      <a href="https://seh2bioinfo.netlify.app/#talks" 
+         style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
+                display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+                transition: transform 0.3s ease, box-shadow 0.3s ease;">
+         <img src="./fondo.png" 
+              style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
+                     border-radius: 50%; object-fit: cover;">
+      </a>
+      <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                  font-size: 18px; color: #102d51; text-align: center; font-weight: bold;">
+         Ediciones de SEH2Bioinfo
+      </span>
+   </div>
 </div>
 
----
+<style>
+   /* Efecto de zoom al pasar el mouse */
+   a:hover {
+      transform: scale(1.1); /* Aumenta el tamaño del botón en un 10% */
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); /* Agrega una sombra más pronunciada */
+   }
+</style>
+
+<script>
+   // Selecciona todos los botones
+   const botones = document.querySelectorAll('a');
+
+   // Agrega el efecto de zoom y sombra al pasar el mouse
+   botones.forEach(boton => {
+      boton.addEventListener('mouseover', () => {
+         boton.style.transform = 'scale(1.2)';
+         boton.style.boxShadow = '0 8px 16px rgba(0, 0, 0, 0.4)';
+      });
+
+      boton.addEventListener('mouseout', () => {
+         boton.style.transform = 'scale(1)';
+         boton.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.3)';
+      });
+   });
+</script>
+
