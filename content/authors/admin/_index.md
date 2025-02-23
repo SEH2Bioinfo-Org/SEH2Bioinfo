@@ -43,7 +43,7 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
 
 <p>&nbsp;</p>
 
-<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; padding: 20px;">
+<div id="zoom-effect" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; padding: 20px;">
    <div style="text-align: center; position: relative;">
       <a href="https://seh2bioinfo.netlify.app/talk/acerca-del-seh2bioinfo/" 
          style="width: 200px; height: 200px; position: relative; border-radius: 50%; 
@@ -75,17 +75,18 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
    </div>
 </div>
 
+
 <style>
-   /* Efecto de zoom al pasar el mouse */
-   a:hover {
+   /* Efecto de zoom al pasar el mouse, solo para los enlaces dentro del div con id zoom-effect */
+   #zoom-effect a:hover {
       transform: scale(1.1); /* Aumenta el tamaño del botón en un 10% */
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4); /* Agrega una sombra más pronunciada */
    }
 </style>
 
 <script>
-   // Selecciona todos los botones
-   const botones = document.querySelectorAll('a');
+   // Selecciona todos los botones dentro del div con id zoom-effect
+   const botones = document.querySelectorAll('#zoom-effect a');
 
    // Agrega el efecto de zoom y sombra al pasar el mouse
    botones.forEach(boton => {
@@ -101,3 +102,4 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
    });
 </script>
 
+<p>&nbsp;</p>
