@@ -46,7 +46,7 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
 <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; padding: 20px;">
    <div style="text-align: center; position: relative;">
       <a href="https://seh2bioinfo.netlify.app/talk/acerca-del-seh2bioinfo/" 
-         style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
+         style="width: 200px; height: 200px; position: relative; border-radius: 50%; 
                 display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
                 transition: transform 0.3s ease, box-shadow 0.3s ease;">
          <img src="./fondo1.png" 
@@ -54,14 +54,14 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
                      border-radius: 50%; object-fit: cover;">
       </a>
       <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-                  font-size: 18px; color: #102d51; text-align: center; font-weight: bold;">
+                  font-size: 16px; color: #102d51; text-align: center; font-weight: bold;">
          Acerca del SEH2Bioinfo
       </span>
    </div>
 
    <div style="text-align: center; position: relative;">
       <a href="https://seh2bioinfo.netlify.app/#talks" 
-         style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
+         style="width: 200px; height: 200px; position: relative; border-radius: 50%; 
                 display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
                 transition: transform 0.3s ease, box-shadow 0.3s ease;">
          <img src="./fondo1.png" 
@@ -69,7 +69,7 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
                      border-radius: 50%; object-fit: cover;">
       </a>
       <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-                  font-size: 18px; color: #102d51; text-align: center; font-weight: bold;">
+                  font-size: 16px; color: #102d51; text-align: center; font-weight: bold;">
          Ediciones de SEH2Bioinfo
       </span>
    </div>
@@ -101,4 +101,3 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
    });
 </script>
 
-<p>&nbsp;</p>
