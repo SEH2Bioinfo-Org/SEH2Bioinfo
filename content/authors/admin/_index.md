@@ -48,7 +48,7 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
       <a href="https://seh2bioinfo.netlify.app/talk/acerca-del-seh2bioinfo/" 
          style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
                 display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
-                transition: transform 0.3s ease, box-shadow 0.3s ease;">
+                transition: transform 0.3s ease, box-shadow 0.3s ease; overflow: hidden;">
          <img src="https://t4.ftcdn.net/jpg/06/98/72/43/360_F_698724310_eOF5koivhfsnaNoCbnkgJoQnu78i7Qza.jpg" 
               style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
                      border-radius: 50%; object-fit: cover; opacity: 0.4;">
@@ -63,7 +63,7 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
       <a href="https://seh2bioinfo.netlify.app/#talks" 
          style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
                 display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
-                transition: transform 0.3s ease, box-shadow 0.3s ease;">
+                transition: transform 0.3s ease, box-shadow 0.3s ease; overflow: hidden;">
          <img src="https://t4.ftcdn.net/jpg/06/98/72/43/360_F_698724310_eOF5koivhfsnaNoCbnkgJoQnu78i7Qza.jpg" 
               style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
                      border-radius: 50%; object-fit: cover; opacity: 0.4;">
@@ -74,7 +74,6 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
       </span>
    </div>
 </div>
-
 
 <style>
    /* Efecto de zoom al pasar el mouse, solo para los enlaces dentro del div con id zoom-effect */
@@ -101,5 +100,6 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
       });
    });
 </script>
+
 
 <p>&nbsp;</p>

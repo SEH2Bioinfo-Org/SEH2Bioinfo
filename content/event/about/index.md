@@ -62,7 +62,7 @@ slides: ""
 #projects: [""]
 ---
 
-## Sobre el Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo)
+## Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo)
 
 <p align="justify">
 En 2022, se organizó el primer Simposio de Estudiantes Hispanohablantes de Bioinformática y Biología Computacional (SEH2Bioinfo), marcando un hito como el primer evento en bioinformática con una colaboración extensa entre los Grupos Regionales de Estudiantes (RSGs) de habla hispana. Participaron los RSGs de Argentina, España, Venezuela, Colombia, Chile, Perú, México y Uruguay. Este evento fue un esfuerzo conjunto para promover el plurilingüismo y la diversidad lingüística en el ámbito científico y en bioinformática, eliminando barreras para el acceso a la comunicación científica y la presentación de trabajos en congresos internacionales.
