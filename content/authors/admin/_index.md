@@ -46,30 +46,30 @@ Con la creación de la <strong>Comunidad de Estudiantes Hispanohablantes de Bioi
 <div id="zoom-effect" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; padding: 20px;">
    <div style="text-align: center; position: relative;">
       <a href="https://seh2bioinfo.netlify.app/talk/acerca-del-seh2bioinfo/" 
-         style="width: 200px; height: 200px; position: relative; border-radius: 50%; 
+         style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
                 display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
                 transition: transform 0.3s ease, box-shadow 0.3s ease;">
-         <img src="./fondo1.png" 
+         <img src="https://t4.ftcdn.net/jpg/06/98/72/43/360_F_698724310_eOF5koivhfsnaNoCbnkgJoQnu78i7Qza.jpg" 
               style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
-                     border-radius: 50%; object-fit: cover;">
+                     border-radius: 50%; object-fit: cover; opacity: 0.4;">
       </a>
       <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-                  font-size: 16px; color: #102d51; text-align: center; font-weight: bold;">
+                  font-size: 18px; color: #102d51; text-align: center; font-weight: bold;">
          Acerca del SEH2Bioinfo
       </span>
    </div>
 
    <div style="text-align: center; position: relative;">
       <a href="https://seh2bioinfo.netlify.app/#talks" 
-         style="width: 200px; height: 200px; position: relative; border-radius: 50%; 
+         style="width: 300px; height: 300px; position: relative; border-radius: 50%; 
                 display: block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
                 transition: transform 0.3s ease, box-shadow 0.3s ease;">
-         <img src="./fondo1.png" 
+         <img src="https://t4.ftcdn.net/jpg/06/98/72/43/360_F_698724310_eOF5koivhfsnaNoCbnkgJoQnu78i7Qza.jpg" 
               style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
-                     border-radius: 50%; object-fit: cover;">
+                     border-radius: 50%; object-fit: cover; opacity: 0.4;">
       </a>
       <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-                  font-size: 16px; color: #102d51; text-align: center; font-weight: bold;">
+                  font-size: 18px; color: #102d51; text-align: center; font-weight: bold;">
          Ediciones de SEH2Bioinfo
       </span>
    </div>
