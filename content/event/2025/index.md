@@ -73,8 +73,9 @@ slides: ""
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
 - [Formulario de Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfxj3s2RnHRY_foCZGWsD9ECFYzb780cLEoobOhH1aWHnkajQ/viewform).
+ <!-- Imagen 1 
 - [Formulario de envío de resúmenes](https://docs.google.com/forms/d/e/1FAIpQLSehtgqnGahs05LxeO1rGyKBgWQcdIt6HV-YzTiLFknBvNPt-w/viewform).
-- [Plantilla modelo de resumen](https://docs.google.com/document/d/1UVdQ6OeUF5XUWMZBjNFAy88W4ven3XlDqBTF8OhY524/edit?usp=sharing).
+- [Plantilla modelo de resumen](https://docs.google.com/document/d/1UVdQ6OeUF5XUWMZBjNFAy88W4ven3XlDqBTF8OhY524/edit?usp=sharing). -->
 
 ⚠️ ¡IMPORTANTE! Para que tu resumen sea considerado en el Simposio debes completar el Formulario de Inscripción al simposio y el Formulario de envío de resúmenes.
 
