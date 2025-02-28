@@ -65,7 +65,8 @@ slides: ""
 ## **Fechas importantes** :pushpin:
 - Apertura de inscripciones y envío de resúmenes:<span style="color:red; text-decoration: line-through;">7 de Febrero</span>
 - 1ra Fecha límite de envío de resúmenes: <span style="color:red; text-decoration: line-through;">21 de Febrero</span>
-- 2da y última fecha límite de envío de resúmenes: <span style="color:green"> 27 de Febrero </span> 
+- 2da y última fecha límite de envío de resúmenes: <span style="color:red; text-decoration: line-through;">27 de Febrero</span>
+- Fecha de notificación de resultados de evaluación: <span style="color:green"> 14 de Marzo </span> 
 - Fecha límite de Inscripción: <span style="color:green"> 25 de Marzo </span> 
 - Fecha del Simposio:<span style="color:green"> 1 y 2 de Abril del 2025 (VIRTUAL y GRATUITO)</span>
 
@@ -76,6 +77,18 @@ slides: ""
 - [Plantilla modelo de resumen](https://docs.google.com/document/d/1UVdQ6OeUF5XUWMZBjNFAy88W4ven3XlDqBTF8OhY524/edit?usp=sharing).
 
 ⚠️ ¡IMPORTANTE! Para que tu resumen sea considerado en el Simposio debes completar el Formulario de Inscripción al simposio y el Formulario de envío de resúmenes.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; 
+           padding-bottom: 0; margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+           border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
+           border: none; padding: 0; margin: 0;" 
+          src="https://www.canva.com/design/DAGgWkxguSo/_fPJ9Qmx3E0fEkCLf4djmw/view?embed" 
+          allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+
 
 ---
 
