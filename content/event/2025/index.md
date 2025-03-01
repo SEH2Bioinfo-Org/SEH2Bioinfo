@@ -155,64 +155,15 @@ slides: ""
 
 ## **Comité Organizador** :handshake:
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em;">
-
-  <!-- Imagen 1 -->
-  <div style="position: relative; width: 100%; padding-top: 100%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px; background-color: transparent;">
-    <a href="./c1.png" target="_blank">
-      <img src="./c1.png" 
-           alt="Imagen de Carlos"
-           style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover;">
-    </a>
-  </div>
-
-  <!-- Imagen 2 -->
-  <div style="position: relative; width: 100%; padding-top: 100%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px; background-color: transparent;">
-    <a href="./c2.png" target="_blank">
-      <img src="./c2.png" 
-           alt="Imagen de Carlos"
-           style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover;">
-    </a>
-  </div>
-
-  <!-- Imagen 3 -->
-  <div style="position: relative; width: 100%; padding-top: 100%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px; background-color: transparent;">
-    <a href="./c3.png" target="_blank">
-      <img src="./c3.png" 
-           alt="Imagen de Carlos"
-           style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover;">
-    </a>
-  </div>
-
-  <!-- Imagen 4 -->
-  <div style="position: relative; width: 100%; padding-top: 100%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px; background-color: transparent;">
-    <a href="./c4.png" target="_blank">
-      <img src="./c4.png" 
-           alt="Imagen de Carlos"
-           style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover;">
-    </a>
-  </div>
-
-  <!-- Imagen 5 -->
-  <div style="position: relative; width: 100%; padding-top: 100%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px; background-color: transparent;">
-    <a href="./c5.png" target="_blank">
-      <img src="./c5.png" 
-           alt="Imagen de Carlos"
-           style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover;">
-    </a>
-  </div>
-
-  <!-- Imagen 6 -->
-  <div style="position: relative; width: 100%; padding-top: 100%; box-shadow: 0 2px 8px rgba(63,69,81,0.16); overflow: hidden; border-radius: 8px; background-color: transparent;">
-    <a href="./c6.png" target="_blank">
-      <img src="./c6.png" 
-           alt="Imagen de Carlos"
-           style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border-radius: 8px; object-fit: cover;">
-    </a>
-  </div>
-
+<div style="position: relative; width: 100%; height: 0; padding-top: 80%;
+          padding-bottom: 0; margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+          border-radius: 0px; will-change: transform;">
+ <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;
+          border: none; padding: 0; margin: 0;"
+         src="https://www.canva.com/design/DAGgd_XEiJ8/X3OJl42Mg0GRB6IbHKC7Ng/view?embed"
+         allowfullscreen="allowfullscreen" allow="fullscreen">
+ </iframe>
 </div>
-
 
 ---
 
