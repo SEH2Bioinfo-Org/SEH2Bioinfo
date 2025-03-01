@@ -72,7 +72,17 @@ slides: ""
 
 ---
 ## **Inscripción y Envío de Resúmenes** :memo:
-- [Formulario de Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfxj3s2RnHRY_foCZGWsD9ECFYzb780cLEoobOhH1aWHnkajQ/viewform).
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
+   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxj3s2RnHRY_foCZGWsD9ECFYzb780cLEoobOhH1aWHnkajQ/viewform" 
+      style="width: 280px; height: 55px; background-color: #102d51; color: white; 
+             text-decoration: none; border-radius: 10px; display: flex; 
+             align-items: center; justify-content: center; 
+             white-space: nowrap; font-size: 20px;">
+      Formulario de Inscripción
+   </a>
+</div>
+
  <!-- Imagen 1 
 - [Formulario de envío de resúmenes](https://docs.google.com/forms/d/e/1FAIpQLSehtgqnGahs05LxeO1rGyKBgWQcdIt6HV-YzTiLFknBvNPt-w/viewform).
 - [Plantilla modelo de resumen](https://docs.google.com/document/d/1UVdQ6OeUF5XUWMZBjNFAy88W4ven3XlDqBTF8OhY524/edit?usp=sharing). -->
@@ -114,12 +124,12 @@ slides: ""
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; padding: 10px; width: 100%; max-width: 600px; margin: 0 auto;">
    <a href="https://seh2bioinfo.netlify.app/2025_programa" 
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
-             white-space: nowrap; font-size: 16px;">
+             white-space: nowrap; font-size: 20px; transition: background-color 0.3s;">
       Programa
    </a>
 
@@ -127,7 +137,7 @@ slides: ""
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
-             white-space: nowrap; font-size: 16px;">
+             white-space: nowrap; font-size: 20px; transition: background-color 0.3s;">
       Pósters
    </a>
 
@@ -135,10 +145,19 @@ slides: ""
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
-             white-space: nowrap; font-size: 16px;">
+             white-space: nowrap; font-size: 20px; transition: background-color 0.3s;">
       Patrocinadores
    </a>
 </div>
+
+<style>
+   /* Aplicar el cambio de color cuando el mouse pasa sobre el enlace */
+   a:hover {
+      background-color: #00bcd4; /* Celeste */
+   }
+</style>
+
+
 
 ---
 
