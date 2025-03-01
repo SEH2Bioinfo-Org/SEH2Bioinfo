@@ -91,7 +91,7 @@ slides: ""
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; 
            padding-bottom: 0; margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-           border-radius: 8px; will-change: transform;">
+           border-radius: 0px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; 
            border: none; padding: 0; margin: 0;" 
           src="https://www.canva.com/design/DAGgWkxguSo/_fPJ9Qmx3E0fEkCLf4djmw/view?embed" 
