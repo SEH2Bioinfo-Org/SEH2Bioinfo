@@ -129,7 +129,7 @@ slides: ""
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
-             white-space: nowrap; font-size: 20px; transition: background-color 0.3s;">
+             white-space: nowrap; font-size: 20px;">
       Programa
    </a>
 
@@ -137,7 +137,7 @@ slides: ""
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
-             white-space: nowrap; font-size: 20px; transition: background-color 0.3s;">
+             white-space: nowrap; font-size: 20px;">
       Pósters
    </a>
 
@@ -145,18 +145,10 @@ slides: ""
       style="width: 180px; height: 55px; background-color: #102d51; color: white; 
              text-decoration: none; border-radius: 10px; display: flex; 
              align-items: center; justify-content: center; 
-             white-space: nowrap; font-size: 20px; transition: background-color 0.3s;">
+             white-space: nowrap; font-size: 20px;">
       Patrocinadores
    </a>
 </div>
-
-<style>
-   /* Aplicar el cambio de color cuando el mouse pasa sobre el enlace */
-   a:hover {
-      background-color: #00bcd4; /* Celeste */
-   }
-</style>
-
 
 
 ---
