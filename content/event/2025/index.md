@@ -104,6 +104,39 @@ slides: ""
   </div>
 </div>
 
+<div class="container" id="poster" day="02-09-2021" style="display:block">
+  <div class="row g-2 justify-content-center"> <!-- Cambié 'g-0' a 'g-2' y añadí 'justify-content-center' para alinear los botones -->
+    <div class="col-auto text-center"> <!-- Cambié 'col' a 'col-auto' para que los botones se ajusten al contenido -->
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxj3s2RnHRY_foCZGWsD9ECFYzb780cLEoobOhH1aWHnkajQ/viewform" role="button" class="btn btn-sm text-white rounded-pill mb-3" style="background-color: #102d51; font-size: 1rem; padding: 20px 30px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <small style="margin-top: -10px;">Formulario de</small>
+          <small>Inscripción</small>
+          <i class="fas fa-pencil-alt" aria-hidden="true" style="font-size: 2rem; margin-top: 10px;"></i>
+        </div>
+      </a>
+    </div>
+    <div class="col-auto text-center">
+      <a href="https://docs.google.com/document/d/104pvRuJrHH1iT4lY1Ol6N5QwtIcKXCuyKiE-_M0KXiI/edit?usp=sharing" role="button" class="btn btn-sm text-white rounded-pill mb-3" style="background-color: #102d99; font-size: 1rem; padding: 20px 30px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <small style="margin-top: -10px;">Instructivo de</small>
+          <small>confección de Póster</small>
+          <i class="fas fa-file-image" aria-hidden="true" style="font-size: 2rem; margin-top: 10px;"></i>
+        </div>
+      </a>
+    </div>
+    <div class="col-auto text-center">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWsEo_45k7dN-Dj0fnsZxytg5fQeCzdxZWoPHiFDlsBlQ46w/viewform" role="button" class="btn btn-sm text-white rounded-pill mb-3" style="background-color: #102d99; font-size: 1rem; padding: 20px 30px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <small style="margin-top: -10px;">Formulario de</small>
+          <small>envío de Póster</small>
+          <i class="fas fa-file-alt" aria-hidden="true" style="font-size: 2rem; margin-top: 10px;"></i>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
 ## **Concurso "Tu Investigación en 2 min."** 
 
 <div class="container" id="poster" day="02-09-2021" style="display:block">
