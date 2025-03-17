@@ -173,7 +173,8 @@ slides: ""
       <!-- Botón Inscripción -->
       <a href="https://seh2bioinfo.netlify.app/2025_programa" role="button" class="btn btn-sm text-white rounded-pill mb-3" style="background-color: #102d51; font-size: 1rem; padding: 20px 30px;">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <span style="margin-top: -10px;">Programa</span>
+          <small style="font-size: 0.7rem; color: #fff;"></small>
+          <span>Programa</span>
           <i class="fas fa-clipboard-list" aria-hidden="true" style="font-size: 2rem; margin-top: 10px;"></i>
         </div>
       </a>
@@ -182,7 +183,8 @@ slides: ""
       <!-- Botón Pósters -->
       <a href="https://seh2bioinfo.netlify.app/2025_posters" role="button" class="btn btn-sm text-white rounded-pill mb-3" style="background-color: #102d45; font-size: 1rem; padding: 20px 30px;">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <span style="margin-top: -10px;">Sesión de Pósters</span>
+          <small style="font-size: 0.7rem; color: #fff;"></small>
+          <span>Sesión de Pósters</span>
           <i class="fas fa-file-image" aria-hidden="true" style="font-size: 2rem; margin-top: 10px;"></i>
         </div>
       </a>
@@ -191,7 +193,7 @@ slides: ""
       <!-- Botón Patrocinadores -->
       <a href="https://seh2bioinfo.netlify.app/2025_patrocinadores" role="button" class="btn btn-sm text-white rounded-pill mb-3" style="background-color: #102d99; font-size: 1rem; padding: 20px 30px;">
         <div style="display: flex; flex-direction: column; align-items: center;">
-          <span style="margin-top: -10px;">Patrocinadores</span><br>
+          <span>Patrocinadores</span><br>
           <small style="font-size: 0.7rem; color: #fff;">y Colaboradores</small>
           <i class="fas fa-handshake" aria-hidden="true" style="font-size: 2rem; margin-top: 10px;"></i>
         </div>
