@@ -79,19 +79,26 @@ slides: ""
 <div class="container" id="poster" day="02-09-2021" style="display:block">
   <div class="row g-0">
     <div class="col text-center">
-      <!-- Inscripción Button -->
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxj3s2RnHRY_foCZGWsD9ECFYzb780cLEoobOhH1aWHnkajQ/viewform" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-3" style="background-color: #102d51; font-size: 1.2rem;">
-        <i class="fas fa-angle-down" aria-hidden="true"></i> Formulario de Inscripción
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxj3s2RnHRY_foCZGWsD9ECFYzb780cLEoobOhH1aWHnkajQ/viewform" role="button" class="btn btn-lg w-100 text-white rounded-pill mb-3" style="background-color: #102d51; font-size: 1.2rem; padding: 60px 60px 60px 60px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <small style="margin-top: -25px;">Formulario de</small>
+          <small>Inscripción</small>
+          <i class="fas fa-pencil-alt" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
       </a>
-    </div>
-      <!-- Instructivo Button -->
-      <a href="https://docs.google.com/document/d/104pvRuJrHH1iT4lY1Ol6N5QwtIcKXCuyKiE-_M0KXiI/edit?usp=sharing" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-3" style="background-color: #102d99; font-size: 1.2rem;">
-        <i class="fas fa-angle-down" aria-hidden="true"></i> Instructivo de confección de Póster
+      <a href="https://docs.google.com/document/d/104pvRuJrHH1iT4lY1Ol6N5QwtIcKXCuyKiE-_M0KXiI/edit?usp=sharing" role="button" class="btn btn-lg w-100 text-white rounded-pill mb-3" style="background-color: #102d99; font-size: 1.2rem; padding: 60px 60px 60px 60px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <small style="margin-top: -25px;">Instructivo de</small>
+          <small>confección de Póster</small>
+          <i class="fas fa-file-image" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
       </a>
-      
-  <!-- Formulario de envío de Póster Button -->
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWsEo_45k7dN-Dj0fnsZxytg5fQeCzdxZWoPHiFDlsBlQ46w/viewform" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-1" style="background-color: #102d99; font-size: 1.2rem;">
-        <i class="fas fa-angle-down" aria-hidden="true"></i> Formulario de envío de Póster
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWsEo_45k7dN-Dj0fnsZxytg5fQeCzdxZWoPHiFDlsBlQ46w/viewform" role="button" class="btn btn-lg w-100 text-white rounded-pill mb-3" style="background-color: #102d99; font-size: 1.2rem; padding: 60px 60px 60px 60px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <small style="margin-top: -25px;">Formulario de</small>
+          <small>envío de Póster</small>
+          <i class="fas fa-file-alt" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
       </a>
     </div>
   </div>
@@ -158,27 +165,31 @@ slides: ""
 <div class="container" id="poster" day="02-09-2021" style="display:block">
   <div class="row g-0">
     <div class="col text-center">
-      <a href="https://seh2bioinfo.netlify.app/2025_programa" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-1" style="background-color: #102d51; font-size: 1.2rem;">
-        <i class="fas fa-angle-down" aria-hidden="true"></i> Programa
+      <!-- Botón Inscripción -->
+      <a href="https://seh2bioinfo.netlify.app/2025_programa" role="button" class="btn btn-lg w-100 text-white rounded-pill mb-3" style="background-color: #102d51; font-size: 1.2rem; padding: 60px 60px 60px 60px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span style="margin-top: -25px;">Programa</span>
+          <i class="fas fa-clipboard-list" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
       </a>
-      <a href="https://seh2bioinfo.netlify.app/2025_posters" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-1" style="background-color: #102d51; font-size: 1.2rem;">
-        <i class="fas fa-angle-down" aria-hidden="true"></i> Pósters
+      <!-- Botón Pósters -->
+      <a href="https://seh2bioinfo.netlify.app/2025_posters" role="button" class="btn btn-lg w-100 text-white rounded-pill mb-3" style="background-color: #102d45; font-size: 1.2rem; padding: 60px 60px 60px 60px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span style="margin-top: -25px;">Sesión de Pósters</span>
+          <i class="fas fa-file-image" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
       </a>
-    </div>
-  </div>
-
----
-
-  <div class="row g-0">
-    <div class="col text-center">
-      <a href="https://seh2bioinfo.netlify.app/2025_patrocinadores" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-1" style="background-color: #102d51; font-size: 1.2rem;">
-        <i class="fas fa-angle-down" aria-hidden="true"></i> Patrocinadores
+      <!-- Botón Patrocinadores -->
+      <a href="https://seh2bioinfo.netlify.app/2025_patrocinadores" role="button" class="btn btn-lg w-100 text-white rounded-pill mb-3" style="background-color: #102d99; font-size: 1.2rem; padding: 60px 60px 60px 60px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span style="margin-top: -25px;">Patrocinadores</span><br>
+          <small style="font-size: 0.7rem; color: #fff;">y Colaboradores</small>
+          <i class="fas fa-handshake" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
       </a>
     </div>
   </div>
 </div>
-
-
 
 
 ---
