@@ -192,6 +192,39 @@ slides: ""
 </div>
 
 
+
+<div class="container" id="poster" style="display:block">
+  <div class="row g-3 justify-content-center">
+    <div class="col-12 col-md-4 text-center">
+      <!-- Botón Inscripción -->
+      <a href="https://seh2bioinfo.netlify.app/2025_programa" role="button" class="btn btn-lg w-100 text-white rounded-pill" style="background-color: #102d51; font-size: 1.2rem; padding: 40px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span style="margin-top: -25px;">Programa</span>
+          <i class="fas fa-clipboard-list" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
+      </a>
+      <!-- Botón Pósters -->
+      <a href="https://seh2bioinfo.netlify.app/2025_posters" role="button" class="btn btn-lg w-100 text-white rounded-pill" style="background-color: #102d45; font-size: 1.2rem; padding: 40px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span style="margin-top: -25px;">Sesión de Pósters</span>
+          <i class="fas fa-file-image" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
+      </a>
+      <!-- Botón Patrocinadores -->
+      <a href="https://seh2bioinfo.netlify.app/2025_patrocinadores" role="button" class="btn btn-lg w-100 text-white rounded-pill" style="background-color: #102d99; font-size: 1.2rem; padding: 40px;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <span style="margin-top: -25px;">Patrocinadores</span><br>
+          <small style="font-size: 0.7rem; color: #fff;">y Colaboradores</small>
+          <i class="fas fa-handshake" aria-hidden="true" style="font-size: 3rem; margin-top: 15px;"></i>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+
 ---
 
 ## **Comité Organizador** :handshake:
