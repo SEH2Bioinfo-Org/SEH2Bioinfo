@@ -225,7 +225,7 @@ slides: ""
  padding-bottom: 0; ; margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 0px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0%;"
-    src="https://www.canva.com/design/DAGgscKpYlg/7y3rn5qGCKZcqzu9K2lLRA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://www.canva.com/design/DAGiKgILAg0/xXXluucYBLUoQxadxoNzqg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
 
