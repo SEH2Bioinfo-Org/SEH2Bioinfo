@@ -68,8 +68,8 @@ slides: ""
 - 2da y última fecha límite de envío de resúmenes: <span style="color:red; text-decoration: line-through;">27 de Febrero</span>
 - Fecha de notificación de resultados de evaluación: <span style="color:red; text-decoration: line-through;"> 14 de Marzo </span> 
 - Fecha límite de Inscripción: <span style="color:red; text-decoration: line-through;"> 25 de Marzo </span> 
-- Fecha límite de envío de Póster: <span style="color:green"> 28 de Marzo </span> 
-- Fecha límite para participar del Concurso "Tu investigación en 2 min.": <span style="color:green">28 de Marzo</span> <span>- <a href="https://www.canva.com/design/DAGh3xIQK4M/EbojtqLSu_GX6Fk3InH4kA/edit?utm_content=DAGh3xIQK4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Ver bases y condiciones</a></span>
+- Fecha límite de envío de Póster: <span style="color:red; text-decoration: line-through;"> 28 de Marzo </span> 
+- Fecha límite para participar del Concurso "Tu investigación en 2 min.": <span style="color:red; text-decoration: line-through;">28 de Marzo</span> <span>- <a href="https://www.canva.com/design/DAGh3xIQK4M/EbojtqLSu_GX6Fk3InH4kA/edit?utm_content=DAGh3xIQK4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Ver bases y condiciones</a></span>
 - Fecha del Simposio: <strong><span style="color:green">1 y 2 de Abril del 2025 (VIRTUAL y GRATUITO)</span></strong>
 
 
