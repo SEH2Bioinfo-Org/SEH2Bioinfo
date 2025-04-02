@@ -74,6 +74,40 @@ slides: ""
 
 
 ---
+## **Formularios de votación de mejores trabajos** :memo:
+
+<div class="container" id="poster" day="02-09-2021" style="display:block">
+  <div class="row g-0">
+    <div class="col text-center">
+      <!-- Instructivo Button -->
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScG-zHDCOSxQskh5Jdt5Z3Y9aup6kGJa6CY64pquWVrMbHdzg/viewform" target="_blank" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-3" style="background-color: #FFC300; font-size: 1.2rem;">
+        <i class="fas fa-angle-down" aria-hidden="true"></i> Mejores Poster/Cartel
+      </a>
+    </div>
+  </div>
+</div>
+<div class="container" id="poster" day="02-09-2021" style="display:block">
+  <div class="row g-0">
+    <div class="col text-center">
+      <!-- Instructivo Button -->
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9MLZyvywVcEmXBTuHmqG4Yl32yN0aqj4hBwd2pj_s5P67Hg/viewform" target="_blank" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-3" style="background-color: #d22bdc; font-size: 1.2rem;">
+        <i class="fas fa-angle-down" aria-hidden="true"></i> Mejores charlas
+      </a>
+    </div>
+  </div>
+</div>
+<div class="container" id="poster" day="02-09-2021" style="display:block">
+  <div class="row g-0">
+    <div class="col text-center">
+      <!-- Instructivo Button -->
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiDhBbTJcCk_kCQr_QvHA7SQ2evUSVVLlcbnT7Z_L0uhEq2Q/viewform" target="_blank" role="button" class="btn btn-lg w-100 text-white py-4 rounded-pill mb-3" style="background-color: #1ca537; font-size: 1.2rem;">
+        <i class="fas fa-angle-down" aria-hidden="true"></i> Mejor presentación al concurso
+      </a>
+    </div>
+  </div>
+</div>
+
+---
 ## **Inscripción y envío de Póster** :memo:
 
 <div class="container" id="poster" day="02-09-2021" style="display:block">
